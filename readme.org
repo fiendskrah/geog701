@@ -26,8 +26,42 @@ Seminar by Stuart Aitken, Trent Biggs
     3. What's the answer to the question?
 *** For next week
 **** TASK Read and reflect using prompts from canva
-***** TODO Read NRC (National Research Council) report
-***** TODO Read Cutter
+***** TODO Read NRC (National Research Council) report :reading:
+****** part 1
+******* Purpose is to formulate a short list (11) of high priority research questions in geographical science that are relevant to societal needs. These can be grouped as:
+
+1. How to understand and respond to environmental change?
+2. How to promote sustainability?
+3. How to recognize and cope with the rapid spatial reorganization of economy and society?
+4. How to leverage technological change for the betterment of society and environment?
+
+******** nrc committee used criteria to forumlate research directions:
+     - clear societal significance
+     - must be central to core geographic concepts
+     - must relate clearly to agendas of larger scientific community
+     - must be tractable (demonstratable)
+     - must be answerable using existing data or methods
+******* "geographical sciences are about more than simply mapping, rooted in concern with the interaction of phenomena and systems treated as distinct." :quote:
+******* Central feature of geographical sciences is the recognition that local/regional circumstances affect larger scale processes.
+******* explosive growth of geographical data and technology results in multi-investigator, transdisciplinary projects.
+****** part 2
+******* explores each of these questions in depth. summarizes the state of current research and describes potential roles and contribution of geographic sciences
+****** part 3
+deals with how to move forward to address the goals listed in part 2.
+Technological and infrastructure challeneges, many of which will have progressed greatly in the time since the report was published, as well as ways to train new geographers and perform outreach to people in positions of power who may be unaware of the depth of information offered by geographical techniques. 
+***** TODO Read Cutter (2001) :reading:
+****** NYT guy asks, Why do geographers suck? missing the 'big picture issues' in their research?
+******* 'academic culture' problem?
+	+ social structure of geographers leads to quick investigations that lead to publications/tenure
+	+ geographers scattered, difficult to rally around large research issues
+	+ AAG should create new incentive structures (don't generalize contributions, encourage recognition)
+******* Deeply held human need to create boundaries, divide space?
+        + consequences of human development, environmental degredation, exasperation of inequality, suburbanization and isolation from community
+******* link between physical deliniations and our perception of space
+	 - public vs private
+	 - interactions and sense of community
+	 - Map of US with states vs water basins
+	   - examine water networks through the actual networks or the bodies that control them with policy? 
 ***** TODO Read 'Gaile and Wilmott'
 **** TASK [#B] Read Critiques
 **** TASK Biosketch/photo
