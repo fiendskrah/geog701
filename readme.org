@@ -24,23 +24,24 @@ Seminar by Stuart Aitken, Trent Biggs
     1. Whats the (research) question?
     2. Whats the method used to answer the question?
     3. What's the answer to the question?
-*** For next week
-**** TASK Read and reflect using prompts from canva
-***** TODO Read NRC (National Research Council) report :reading:
+*** for next week
+**** task read and reflect using prompts from canva
+***** todo read nrc (national research council) report :reading:
 ****** part 1
-******* Purpose is to formulate a short list (11) of high priority research questions in geographical science that are relevant to societal needs. These can be grouped as:
+******* purpose is to formulate a short list (11) of high priority research questions in geographical science that are relevant to societal needs. these can be grouped as:
 
-1. How to understand and respond to environmental change?
-2. How to promote sustainability?
-3. How to recognize and cope with the rapid spatial reorganization of economy and society?
-4. How to leverage technological change for the betterment of society and environment?
+       1. how to understand and respond to environmental change?
+       2. How to promote sustainability?
+       3. How to recognize and cope with the rapid spatial reorganization of economy and society?
+       4. How to leverage technological change for the betterment of society and environment?
 
 ******** nrc committee used criteria to forumlate research directions:
-     - clear societal significance
-     - must be central to core geographic concepts
-     - must relate clearly to agendas of larger scientific community
-     - must be tractable (demonstratable)
-     - must be answerable using existing data or methods
+
+       - clear societal significance
+       - must be central to core geographic concepts
+       - must relate clearly to agendas of larger scientific community
+       - must be tractable (demonstratable)
+       - must be answerable using existing data or methods
 ******* "geographical sciences are about more than simply mapping, rooted in concern with the interaction of phenomena and systems treated as distinct." :quote:
 ******* Central feature of geographical sciences is the recognition that local/regional circumstances affect larger scale processes.
 ******* explosive growth of geographical data and technology results in multi-investigator, transdisciplinary projects.
@@ -62,8 +63,13 @@ Technological and infrastructure challeneges, many of which will have progressed
 	 - interactions and sense of community
 	 - Map of US with states vs water basins
 	   - examine water networks through the actual networks or the bodies that control them with policy? 
-***** TODO Read 'Gaile and Wilmott'
+******* /strained/ Thomas Jefferson conclusion
+         - written in 2002
+***** TODO Write 
 **** TASK [#B] Read Critiques
 **** TASK Biosketch/photo
 *** Action items
 **** TASK Follow up with SA about 'Media Geography'
+** 8/29/2022 :week2:
+*** Course Mechanics
+**** Skipping week 3 (labor day) 

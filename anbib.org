@@ -1,0 +1,16 @@
+* Annotated Bibliography
+** Monarrez, Tomas; Chien, Carina
+*** Dividng Lines: Racially Unequal School Boundaries in Public School Systems
+*** Urban Institute special report
+*** September 2021
+*** Annotation:
+
+This report evaluates ethnic and racial compositions of neighboring schools to find discontinuities. The question is to what extent do neighboring schools segregate their populations (i.e. a rich white school and a poor black school). The authors find over 2000 pairs of neighborhoring schools that are vastly different from each other in ethnic composition and school resources (staffing, etc.), suggesting that school attendance boundaries (SABs) are drawn in ways that amplify segregation. They link existing inequalities to those created by the New Deal's Home Owners' Loan Corporation redlining policies using historical maps. While they use SABs extensively, they source their data privately, rather than using the public School Attendance Boundary Survey.
+
+** Saporito, Salvator ; Van Riper, David
+*** Do Irregularly Shaped School Attendance Zones Contribute to Racial Segregation or Integration?
+*** Social Currents, Vol 3 (64-83)
+*** 2015
+*** Annotation:
+
+This artcile contextualizes the 'school attendance zone' or 'school attendance boundary' (SAB) as a concept in education research and demography. The argues establish the benefits of diverse schools and argue that the drawing of SABS is one of the best tools available to administrators to increase diversity. They operationalize irregularity (as in shapes) and show that the more irregularly drawn (i.e. not rectangular) shapes contribute to school diversity. Compact, rectangular SABs tend to mirror the demographic makeup of the overall city, meaning that a grid of SABs will simply reproduce the existing segregation in the city. SABs which are 'gerrymandered' to be sprawling and irregular can draw students from across different ethnic neighborhoods in the city, resulting in a more diverse school. They use the 2009 SABINS database to show that this pattern largely holds, that irregularly drawn SABs almost always have diverse schools.
