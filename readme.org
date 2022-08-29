@@ -70,6 +70,12 @@ Technological and infrastructure challeneges, many of which will have progressed
 **** TASK Biosketch/photo
 *** Action items
 **** TASK Follow up with SA about 'Media Geography'
+<<<<<<< HEAD
 ** 8/29/2022 :week2:
 *** Course Mechanics
 **** Skipping week 3 (labor day) 
+=======
+what is media geography and is it connected to propaganda?
+***** TODO what readings
+****** 
+>>>>>>> 9105a6e7a861fb3c6d8673b6385cd6b826ff2b42
