@@ -2,6 +2,16 @@ Geography 701: Development of Geographic Thought
 Seminar by Stuart Aitken, Trent Biggs
 [[https://sdsu.instructure.com/courses/113619][link to Canva website]]
 
+* Action items
+** WAITING Sync '701' zotero library with annbib.org
+** TASK Review/sign up for citation alerts
+**** Specific journals
+***** Geography Compass
+**** Specific authors
+** TASK Look up Paul Robins
+    - Author from last week (NRC critique)
+    - Role of /power/ in each of these areas
+    - Why are these problems the way they are in the first place?
 * Notes
 ** 8/22/2022 :week1:
 *** first half of class a discussion of the readings
@@ -25,8 +35,9 @@ Seminar by Stuart Aitken, Trent Biggs
     2. Whats the method used to answer the question?
     3. What's the answer to the question?
 *** for next week
-**** task read and reflect using prompts from canva
-***** todo read nrc (national research council) report :reading:
+**** TASK read and reflect using prompts from canva
+***** DONE Read nrc (national research council) report              :reading:
+CLOSED: [2022-08-29 Mon 13:24]
 ****** part 1
 ******* purpose is to formulate a short list (11) of high priority research questions in geographical science that are relevant to societal needs. these can be grouped as:
 
@@ -50,7 +61,8 @@ Seminar by Stuart Aitken, Trent Biggs
 ****** part 3
 deals with how to move forward to address the goals listed in part 2.
 Technological and infrastructure challeneges, many of which will have progressed greatly in the time since the report was published, as well as ways to train new geographers and perform outreach to people in positions of power who may be unaware of the depth of information offered by geographical techniques. 
-***** TODO Read Cutter (2001) :reading:
+***** DONE Read 2001 (Cutter)                                       :reading:
+CLOSED: [2022-08-29 Mon 13:24]
 ****** NYT guy asks, Why do geographers suck? missing the 'big picture issues' in their research?
 ******* 'academic culture' problem?
 	+ social structure of geographers leads to quick investigations that lead to publications/tenure
@@ -64,18 +76,168 @@ Technological and infrastructure challeneges, many of which will have progressed
 	 - Map of US with states vs water basins
 	   - examine water networks through the actual networks or the bodies that control them with policy? 
 ******* /strained/ Thomas Jefferson conclusion
-         - written in 2002
-***** TODO Write 
+         - written in 2002 
 **** TASK [#B] Read Critiques
-**** TASK Biosketch/photo
+**** DONE Biosketch/photo
+CLOSED: [2022-08-29 Mon 13:24]
 *** Action items
-**** TASK Follow up with SA about 'Media Geography'
-<<<<<<< HEAD
 ** 8/29/2022 :week2:
-*** Course Mechanics
-**** Skipping week 3 (labor day) 
-=======
-what is media geography and is it connected to propaganda?
-***** TODO what readings
-****** 
->>>>>>> 9105a6e7a861fb3c6d8673b6385cd6b826ff2b42
+*** Skipping week 3 (labor day) 
+*** Literature Review assignment
+     - 10-15 page document which will feed into a similar assignment in next semester's course (Geog700)
+     - The 700 assaignment will lead the reader to naturally reach the research question.
+     - Make the case and rationale for the research question
+     - in THIS class, the purpose is to synthesize research in /and around/ my thesis area.
+     - ID central issues, questions, or debates in a given subfield
+*** Gaile readings describes 3 revolutions
+**** Quantitative revolution (1960-1970s)
+      - Prior, geography was charaterized by the elaborate descriptions of places and how they differ from other places
+      - Sounds like classical anthropology, /descriptive exceptionalism/,
+      - goal became to interpret in terms of /nomothetic/ (generalizable) and /idiographic/ (understand contingent)
+      - /Logical positivism/ (Comte) or /Critical rationalism/ (Popper)
+**** Marxist revolution (1970s)
+      - Sense of urgency and activist framework
+      - Need to solve these problems now
+**** Post-modern/post-structural
+      - Knowledge is socially constructed, relative to the structures that construct them
+*** geographical thinking
+   - uniquely preoccupied with defining their discipline
+   - places are the expression of flows of matter, information, energy, power, into and out of a given place
+   - human-environment interactions are central
+   - focus on patterns and processes vs predictive precision
+   - see Hurricane Katrina example in NRC report
+*** Actions
+*** DONE Readings for week 3(4)
+CLOSED: [2022-09-12 Mon 15:34]
+**** TODO Aitken Ch1 | Approaches
+**** TODO CH1 Cresswell 
+***** What is theory?
+****** Metaphor of a 'lens'; it imposes conceptual order on messy reality
+****** "At it's most basic, ordering the multiplicit of raw experience and facts"
+****** "That I have a theory suggests that I have come up with a plausible explanation which includes a certain level of complexity. Not an explanation that can be proved or disproved, simply a plausible one."
+****** distinguish between philosophical theory (e.g. marxist theory of labor value) and a theory in physical science, can't be tested in the same manner
+***** Since 1970s, use of the word theory is more generalized
+****** used to refer to work that seems to have utility to thinkers across a range of fields. 
+** 9/12/2022 :week4:
+*** No Dr. Biggs today
+**** Political ecology, community issues stems from anarchist theories
+**** Jiggsaw
+***** Theory is important
+****** Examine our own biases and the biases of others
+***** 'Lenses' - do you need to take one off to put another on?
+****** "onions have layers"
+***** Theory drives practice
+***** Geomorphology
+****** Darwinism and physical geography
+***** WAITING Environmental determinism
+****** TODO come back to this
+****** used to justify all kinds of evil (empire)?
+******* tropical peoples are inherently lazy, fit to be dominated
+******* let's 'help' these people 'develop', be more like 'us'
+******* best intentions
+******** take our GMO corn
+******** oh but you need our ferts, our tech
+********* oh and you don't need labor, sorry about your unemployment.
+******** "where does the insidiousness creep in"
+********* the IMF?
+***** asking questions from the perspective of flawed human beings of a world we can never truly know
+****** models are abstractions of the observable world
+*** TASK Readings for week 5
+**** Approaches CH 2
+***** What is Positivism?
+****** Auguste Comte (1798 - 1857) considered father of positivsm
+******* What is the exact, the useful, the organic, the relative?
+******* DGAF about ontologies, speculative.
+******* What is observable and testable? That's what matters.
+****** Logical Positivism (proving stuff true)
+******* Vienna Circle (1920s and 30s)
+******** Naturalism, based on 6 assumptions
+********* based in "rationality"
+********* application of laws of positivist science can change societies. 
+********* scientists are detatched, neutral observers
+******** advocated quantitative measurments of facts to test relationships of variables
+******** statistical likelihoods and causal inference
+******** Objectivity is enforced through adherence to 5 principles:
+	1. Originality – their aim is to advance knowledge by the discovery of new knowledge.
+	2. Communality – all knowledge is shared, with its provenance fully recognised.
+	3. Disinterestedness – scientists are interested in knowledge for its own sake, and their only reward is the satisfaction that they have advanced understanding.
+	4. Universalism – judgements are on academic grounds only, and incorporate no reflections on the individuals concerned.
+	5. Organised scepticism – knowledge is advanced by constructive criticism.
+******** distinguished between synthetic and analytical statements
+********* analytical statements internally validating /a priori/, for things impossible to test
+********* differs from Comte
+******** forwarded scientism
+********* the claim that the positivist method is the only valid and reliable way of obtaining knowledge, and all other methods are meaningless because they do not produce knowledge that can be verified
+****** Critical Rationalism (proving stuff false)
+******* Karl Popper
+******* contends that the truth of a law does not depend on the number of times it is experimentally observed or verified, but rather whether it can be falsified
+***** Positivism in human geography
+****** Quantitative revolution
+******* Starting in the 1950s, geographers began to argue that geography needed to become more scientific
+******* shift from ideographic (fact gathering) to nomothetic (idea producing)
+******* Hope to ID universal laws that explain spatial patterns
+******* Development of models and equations
+******* Golledge and Amedeo (1968) four kinds laws being developed by geographers
+******** Cross-sectional
+********* functional relationships, no causal connections
+******** Equilibrium
+********* What will happen if certain criteria are met
+******** Dynamic
+********* Notions of change - what happens to y if x changes
+******** Statistical
+********* probability statements - what is the change that B happens given that A is true
+****** Hill (1981) argues spatial science borrowed scientific method without examining philosophical underpinnings 
+******* "positivistic" rather than "postivist"
+****** David Harvey's /Explanation in Geography/
+******* milestone text for geography
+******* geographers had not examined how or why geographical knowledge was produced
+******* nor had they forwarded a theoretically methodological base for the discipline
+****** Much of Geography is implicitly positivist
+***** Criticism and challenges to positivist geography
+****** 1960s - social unrest led geographers to ask if their discipline could engage with practical solutions
+****** critique of ontology and methodology
+******* spatial fetishism - decoupling space from time and matter
+******* Spatial science limited to certain kinds of questions and answers
+******* it "treated people like they were devoid of irrationality, ideology, and history"
+******* David Harvey did a 180
+******** there is ‘a clear disparity between the sophisticated theoretical and methodological framework we are using and our ability to say anything meaningful about events as they unfold around us.’
+******** the only way to address such issues was to turn to radical theories such as Marxism
+********* uncover the capitalist structures that underpinned social and economic inequalities and regulated everyday life
+********* transform such structures into a more emancipatory system
+***** Positivism in geography today
+****** positivism still implicit in geography
+******* 'scientists' who 'seek to understand reality'
+****** many practice geographic inquiry without a thought for philosophy
+******* lacks fundamental ideological, ontological, epistimological base
+****** big data heralds return of positivism
+******* immense in scale, granularity, and is relational.
+******* every interaction generates data 
+******* "end of theory"?
+******* "deluge of data makes scientific method obsolete"?
+**** optionals
+***** Berry ("looks like GIS")
+***** Shaefer and Castree are similar from different times
+***** Garret (drones)
+** 9/19/2022 :week5:
+*** TODO Epitome paper due next Sunday 
+DEADLINE: <2022-09-25 Sun>
+What is the epitome of a 'geographic paper'?
+
+*** Jigsaw
+**** positivism should be considered as separate from quantitative geography
+***** quantitative geography assumes that 'universal laws' and absolute truths cannot be found, or are very difficult, and ultimately maleable by new information.
+***** logical positivism suggests that if you get enough data, you will find the total observable reality and therefore understand why, absent of any ideology.
+***** history of logical positivists include economists utilizing geography to understand the rationality of where things were placed, particularly in an urban setting. 
+***** also includes rationalizing Nazi empire (living space). 
+**** Harvard geography disputes
+***** Richard Hartshorn(?) and other geographers prior to the 1950s begin with understanding that Space and Time (Kant) are fundamental building blocks of all sciences
+***** geography breakdown in 1950s led to rise in quantification
+**** There's almost always a theory underneath an investigation
+***** assumptions in the question formulation
+***** observations a priori are theory-laden
+*** TASK Readings for week 6
+**** TODO Brown (1) - responsible
+**** Actually skim Beven (2) and Lave (3)
+* Done
+** DONE Follow up with Prof Aitken about 'Media Geography' 
+CLOSED: [2022-09-09 Fri 13:37]

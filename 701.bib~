@@ -1,0 +1,49 @@
+
+@article{goldfischerEncampmentsHotspotsChanging2020a,
+  title = {From Encampments to Hotspots: The Changing Policing of Homelessness in {{New York City}}},
+  shorttitle = {From Encampments to Hotspots},
+  author = {Goldfischer, Eric},
+  year = {2020},
+  month = oct,
+  journal = {Housing Studies},
+  volume = {35},
+  number = {9},
+  pages = {1550--1567},
+  publisher = {{Routledge}},
+  issn = {0267-3037},
+  doi = {10.1080/02673037.2019.1655532},
+  abstract = {This article examines a shift in language and enforcement around homeless dwellings in New York City that occurred in 2015. Amidst a rising tide of anti-homeless sentiment, city officials and police department administrators switched from calling such dwellings `encampments' to `homeless hotspots', which were defined as anywhere with two or more homeless people in public space. Using data from city policy memos, interviews with homeless people, ethnographic fieldwork with a homeless-led organization, and data from the city's 311 user-driven complaint system, this article argues that in practice, the shift to hotspots demonstrates the relational geography of homelessness. Selective enforcement of the visible `homeless hotspot' took place in recently-gentrified neighbourhoods, suggesting that the idea of a homeless hotspot itself and the financialized home are co-produced and co-dependent, created through one another. This relational geography, in turn, sheds light on the pervasiveness of anti-homelessness, force that changes with political winds but retains its power in producing borders and boundaries of urban space.},
+  keywords = {gentrification;,Homelessness;,policing;,relational geographies;,visibility},
+  annotation = {\_eprint: https://doi.org/10.1080/02673037.2019.1655532}
+}
+
+@article{monarrezRaciallyUnequalSchool,
+  title = {Racially {{Unequal School Boundaries}} in {{US Public School Systems}}},
+  author = {Monarrez, Tomas and Chien, Carina},
+  pages = {70},
+  langid = {english}
+}
+
+@article{reyMeasuringSpatialDynamics2011,
+  title = {Measuring Spatial Dynamics in Metropolitan Areas},
+  author = {Rey, Sergio J. and Anselin, Luc and Folch, David C. and {Arribas-Bel}, Daniel and Sastr{\'e} Guti{\'e}rrez, Myrna L. and Interlante, Lindsey},
+  year = {2011},
+  journal = {Economic Development Quarterly},
+  volume = {25},
+  number = {1},
+  pages = {54--64},
+  publisher = {{SAGE Publications Sage CA: Los Angeles, CA}}
+}
+
+@article{saporitoIrregularlyShapedSchool2016,
+  title = {Do Irregularly Shaped School Attendance Zones Contribute to Racial Segregation or Integration?},
+  author = {Saporito, Salvatore and Van Riper, David},
+  year = {2016},
+  journal = {Social currents},
+  volume = {3},
+  number = {1},
+  pages = {64--83},
+  publisher = {{Sage Publications Sage CA: Los Angeles, CA}}
+}
+
+
