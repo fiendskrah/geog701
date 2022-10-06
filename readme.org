@@ -3,12 +3,67 @@ Seminar by Stuart Aitken, Trent Biggs
 [[https://sdsu.instructure.com/courses/113619][link to Canva website]]
 
 * Action items
-** WAITING Sync '701' zotero library with annbib.org
-** TASK Review/sign up for citation alerts
+** TASK Diagnostic interview with advisor 
+Please describe:
+
+1. your academic strengths:
+
+   + Computing:
+     - 'research' infrastructure: zotero, git, latex/bibtex, emacs; ensures ease of access, integration across platforms, version control/change tracking, concept generation and mapping.
+     - python proficiency, open source coding and research practices.
+     - confident in fitting into any research scheme and picking up any software.
+   + Background in media/culture (theory) and public policy (applications)
+   + Decent writer/proofreader/editor
+   + Enjoy teaching
+       
+2. your academic weaknesses or areas for improvement:
+
+   + math:
+     - knowledgable in policy analysis methods (statistical methodologies, regression and diff-in-diff primarily)
+     - generally able to comprehend mathematical concepts, but difficulty with manual calculations (consequences of black box-style programming solutions)
+   
+3. general topic(s) you think might be involved in your dissertation or thesis research:
+   
+   + public policy subjects:
+     - school systems
+     - homelessness
+     - policing
+     - political economy
+   + urban modeling:
+     - geodemographic change (gentrification)
+     - transit networks
+     - econometrics (housing market)
+   + digital space (maybe)
+       
+4. 2-4 other faculty members you are interested in working with and/or having on your committee. Include faculty both in Geography and in other Departments.  Your advisor may suggest others during your meeting.
+   
+   + Sergio Rey, Stuart Sweeny, Alan Murray, 
+   
+5. your goals and objectives for the program... describe what you are hoping to learn and accomplish during the course of your graduate program;
+
+   + Expertise in spatio-temporal methodologies, especially as they pertain to urban systems.
+   + Depth of knowledge in geographical perspectives on key public policy subjects with ideas about how to  push these areas forward
+   + Understanding on the intersections of various theoretical perspectives on these areas (marxism in particular)
+   + Contribute to social and professional networking within the program
+     - GGSA (peer and alumni perspective)
+   
+6. your career objectives following receipt of your degree.  Describe the type of career you hope to pursue after earning your degree, and any other professional goals you hope to achieve. If applicable, include any teaching, science writing, or other non-academic career goals you may have.
+   + Aiming for a trajectory into a tenure-tract academic position. I want to continue pushing geographic research, I want to teach. 
+
+7. your needs and expectations for advising:  How often will you meet with your thesis advisor, what kinds of guidance will you be looking for?
+   + Regular 15-30 minute weekly meetings already established with Dr. Rey (remote via zoom okay). Happy to include other faculty/committee members when appropriate. 
+   + Github repository for asynchronous advising and issue tracking. 
+   
+8. your goals for the coming academic year: Describe your academic and professional goals for the coming academic year, including thesis defense timeline, research objectives, skills you would like to acquire, conferences or workshops you plan to attend, outreach and teaching activities, etc. 
+** DONE Sync '701' zotero library with annbib.org
+CLOSED: [2022-09-30 Fri 13:50]
+** CANCELLED Review/sign up for citation alerts
+CLOSED: [2022-09-30 Fri 13:51]
 **** Specific journals
 ***** Geography Compass
 **** Specific authors
-** TASK Look up Paul Robins
+** CANCELLED Look up Paul Robins
+CLOSED: [2022-09-30 Fri 13:51]
     - Author from last week (NRC critique)
     - Role of /power/ in each of these areas
     - Why are these problems the way they are in the first place?
@@ -219,10 +274,10 @@ CLOSED: [2022-09-12 Mon 15:34]
 ***** Shaefer and Castree are similar from different times
 ***** Garret (drones)
 ** 9/19/2022 :week5:
-*** TODO Epitome paper due next Sunday 
-DEADLINE: <2022-09-25 Sun>
+*** DONE Epitome paper due next Sunday 
+CLOSED: [2022-09-26 Mon 10:57] DEADLINE: <2022-09-25 Sun>
 What is the epitome of a 'geographic paper'?
-
+**** Coffee shops and Street Stops; Ayobami Laniyon
 *** Jigsaw
 **** positivism should be considered as separate from quantitative geography
 ***** quantitative geography assumes that 'universal laws' and absolute truths cannot be found, or are very difficult, and ultimately maleable by new information.
@@ -237,7 +292,109 @@ What is the epitome of a 'geographic paper'?
 ***** observations a priori are theory-laden
 *** TASK Readings for week 6
 **** TODO Brown (1) - responsible
-**** Actually skim Beven (2) and Lave (3)
+***** focuses on the importance of developing methodologies that encourage critical self-reflection in with uncertainties in environmental research
+***** theories cannot be merely refuted by observations, but require deeper argumentation, and must be open to re-evaluation (reality exists in an unconcious state and achieves 'life' when we percieve it i.e. Kant)
+***** division of reality into (River Thames flooding example)
+      1) real mechanisms,
+      2) actual events,
+      3) empirical observations
+***** convergence of top-down and bottom-up approaches in understanding reality
+****** theorizing beyond appearance is the essence of science
+***** uncertainty in physical geography viewed as expression of our inability to resolve a unique, causal world
+****** interdependency of all things (theory of relativity) 
+****** non-linear sensitivities to immeasurably small differences (chaos theory)
+****** presence of many plausible theories common in geography (equifinity)
+***** Closure - the act of defining and delimiting an investigation by imposing boundaries
+****** Lane suggests that limits are placed typically on space-time boundaries
+******* practical purposes rather that process, discrete perspectives as opposed to continuous, oversimplification
+******* choice of modelling employed also can induce uncertainty
+***** Taxonomy of imperfect knowledge
+****** previous taxonomies focus on /types/ or /sources/ of imperfect knoweldge
+****** can't know the exact gap, but we can know that a gap exists (accepted ignorance)
+****** a simple taxonomy would distinguish between ignorance and states of confidence (i.e. we know there is a gap here)
+******* it is useful to distinguish between ‘outcomes’ or scenarios, as possible states of ‘reality’ (mechanisms, events, observations), and ‘probability’ (chance, likelihood, plausibility), as a degree of confidence about possible outcomes. Secondly, it is useful to distinguish between ‘bounded uncertainty’ or ambiguity, where all possible outcomes are deemed ‘known’ (they can be distinct or indistinct), ‘unbounded uncertainty’, where some or all possible outcomes are deemed unknown, and indeterminacy, where some possible outcomes are deemed unknowable.
+****** Spectrum of confidence figure on 374
+***** uncertainty analyses
+****** some debate on openness in reseach (i.e. intersections with politics and public policy)
+****** uncertainty analysis doesn't mean much if the research wants/needs to produce definitive statement or novel interpretation
+****** should educate the decision maker to the degree of uncertainty
+****** improve the cogency of questions directed toward research assumptions
+***** developing methodologies that question belief
+****** reducing error vs developing tools to address uncertainty
+**** Skim Beven (2) and Lave (3)
+** 9/26/2022 :week6:
+*** Jigsaw
+**** moving from science as a set of investigations into /how science functions/ in society 
+**** "social epistymology" - development of knowledge is dependent on social position
+***** more diverse perspectives leads to stronger objectivity
+**** closure also refers to your starting point in a research question.
+**** hypotheses are /deductively/ reasoned
+***** reasoning following knowledge, following theories
+**** equifinality - multiple working hypothesis can explain the same phenomenon simulataniously
+*** TASK readings for week 7
+**** Powis (4)
+***** Studying groundwater through the interplay of materiality and representation
+***** Groundwater is maleable, constantly reconfiguring itself through contact with other grounds
+***** Urban groundwater an archive or a 'ruin' - defined by continuity and contamination
+****** "Groundwater" a hybrid materiality of 'grounds' and 'waters'
+******* auquafir suggests static water, we need to think about inseperably relational materiality
+****** "groundwater is not an archieve, but it creates one"
+****** groundwater processes highly charged and political
+******* EX. Building a train tunnel network in South India
+******** Injected goop to try to break up rocky stretch of tunnel caused ground to burst in homes with grey goop
+********* "Fluidity, part of everyday passenger experience"
+********* Also reduced groundwater levels during a drought
+***** Author describes a brief history of the region and groundwater mechanics therein 
+***** Author describes the process of stratigraphy for tunneling purposes
+****** Taking cores of the ground and running analyses on the cores and holes to infer models of what happens in between
+******* Argues that this is insufficient, speculative, because the groundwater is not a geological record
+******** "The authority of the borehole logs as source material when superimposed onto the section is undermined by thee geometries the supposed strata are forced into"
+***** Author describes the development of porosity measures 
+****** Darcey's equation shows that groundwater properties dependant on the properties of the fluid and the material - necessarily relational
+***** Impermiable modeling
+****** always invlves a lot of guesswork
+****** "As I am arguing, the solid material and the fluid cannot reasonably be divided"
+***** pressure
+****** example of train pressing down on the ground, causing the pores to close and expell water, or not let it in
+******* ergo the concept of urban ground as a 'sponge' is dumb
+******* "Thinking in terms of pressure, not strata, offers an image of the ground as a squashy co-ordination of surfaces, wedges, beds: degrees of saturation, densities, and flows"
+***** tunneling groundwater
+****** increasingly difficult where strata is consistently inconsistent
+****** engineers consider water as a separate problem, to be considered if encountered rather than linked to the ground
+***** "Leaky Theory"
+****** a processes by which groundwater exceeds categorization
+****** not borders, but relational exchanges that need to be maintained
+****** focus on what things do and how they change rather than 'what they are'
+** 10/3/2022
+*** Jigsaw
+**** humanistic geography is a critique of positivism, which ignores human impact on earth.
+**** rationality (as in economics) is BS
+**** "essence" of humans is their impact on earth
+**** Place is an added importance to a location given by humans
+***** essense of humanism
+***** an idea instead of location
+**** activists and feminist geographiers is the new humanists
+***** seeks to participate in phenomenon in general, rather than pursue objectivity
+**** geohumanities
+***** geolocation on top of social studies
+***** deep maps
+****** chronology is key
+****** 'the spatial turn' 
+*** Discussion
+**** Is humanism separate from science?
+***** Just another part of science?
+***** humanism reaction against science?
+****** route science dehumanizes essentializes what humans are. 
+****** Cresswell argues that they're two sides of the same coin based on philosophy
+******* emphasizes human reasoning rather than predestiny 
+******* human focus
+******* denies differences in humans - essence of humans is universal.
+****** existentialism is interested in how we know
+****** phenomenology interested in how we come to know things before language, before consciousness
+*** TASK Readings for week 8 (complex systems, human environment interactions)
+**** 2 (Cote)
+***** if time (4, Seto)
+**** APCG
 * Done
 ** DONE Follow up with Prof Aitken about 'Media Geography' 
 CLOSED: [2022-09-09 Fri 13:37]
