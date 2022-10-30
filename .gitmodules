@@ -1,0 +1,3 @@
+[submodule "litmap"]
+	path = litmap
+	url = git@github.com:fiendskrah/litmap.git

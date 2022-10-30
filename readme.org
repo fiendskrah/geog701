@@ -1,0 +1,93 @@
+Geography 701: Development of Geographic Thought
+Seminar by Stuart Aitken, Trent Biggs
+[[https://sdsu.instructure.com/courses/113619][link to Canva website]]
+
+* Action items
+** TASK Diagnostic interview with advisor 
+Please describe:
+
+1. your academic strengths:
+
+   + Computing:
+     - 'research' infrastructure: zotero, git, latex/bibtex, emacs; ensures ease of access, integration across platforms, version control/change tracking, concept generation and mapping.
+     - python proficiency, open source coding and research practices.
+     - confident in fitting into any research scheme and picking up any software.
+   + Background in media/culture (theory) and public policy (applications)
+   + proficient writer/proofreader/editor
+   + Enjoy teaching
+       
+2. your academic weaknesses or areas for improvement:
+
+   + math:
+     - knowledgable in policy analysis methods (statistical methodologies, regression and diff-in-diff primarily)
+     - generally able to comprehend mathematical concepts and applications to spatial analysis, but difficulty with manual calculations and formulation of novel applications of modeling methods.
+   + 
+   
+3. general topic(s) you think might be involved in your dissertation or thesis research:
+   
+   + public policy subjects:
+     - school systems (spatial distributions of things such as segregation, academic performance, punishment, school ammeneties and staffing as a result of school/district/state/federal policy)
+     - homelessness
+     - policing
+   + urban modeling:
+     - geodemographic change (gentrification)
+     - transit networks
+     - econometrics (housing market) 
+   + digital space and political economy (in the context of intersections of above items, e.g. big data applications, role of housing market and gentrification in exasperating homelessness, post-industrial policing practices, strategies to pursue policy goals through digital communication, aesthetics)
+       
+4. 2-4 other faculty members you are interested in working with and/or having on your committee. Include faculty both in Geography and in other Departments.  Your advisor may suggest others during your meeting.
+   
+   + Sergio Rey, Stuart Sweeney, Alan Murray, 
+   
+5. your goals and objectives for the program... describe what you are hoping to learn and accomplish during the course of your graduate program;
+
+   + Expertise in spatio-temporal methodologies, especially as they pertain to urban systems.
+   + Depth of knowledge in geographical perspectives on key public policy subjects with ideas about how to push these areas forward;
+   + Understanding on the intersections of various theoretical perspectives on these areas
+   + Eventually use the above points to pursue policy changes
+   + Contribute to social and professional networking within the program
+     - GGSA (peer and alumni perspective)
+   
+6. your career objectives following receipt of your degree.  Describe the type of career you hope to pursue after earning your degree, and any other professional goals you hope to achieve. If applicable, include any teaching, science writing, or other non-academic career goals you may have.
+   + Aiming for a trajectory into a tenure-tract academic position. With due effort, time, and guidance, I believe I can become a very productive geographic researcher. I'm not opposed to pursuing a research career away from academia, but I do enjoy teaching and I have a perception that I would have more freedom to research what I want than if I go into a government or private researching position.
+
+7. your needs and expectations for advising:  How often will you meet with your thesis advisor, what kinds of guidance will you be looking for?
+   + Regular 15-30 minute weekly meetings already established with Dr. Rey (remote via zoom okay). Happy to include other faculty/committee members when appropriate. 
+   + Github repository for asynchronous advising and issue tracking.
+   + Still working on connecting with Dr. Sweeney at UCSB.
+   
+8. your goals for the coming academic year: Describe your academic and professional goals for the coming academic year, including thesis defense timeline, research objectives, skills you would like to acquire, conferences or workshops you plan to attend, outreach and teaching activities, etc.
+   + The annotated bibliography assignment in GEOG 701 is my top priority for this semester. I would like to leverage some of the connections I've made here with other graduate students and professors to formulate research questions for upcoming projects. I aspire to publish some research before I graduate. I would also like to continue to build on my python skills and experience, as well as begin to incorporate R in my analysis where appropriate.
+** TODO Write up for concept map
+*** instructions/details of obsidian
+For my concept map, I'm using a program called Obsidian, which visualizes connections between documents using contextual links to create a highly interactive map of ideas and notes. Obsidian organizes these notes in individual files in Markdown (.md) in a folder refered to as a 'vault'. I am attaching static screenshots of my vault, but the intereactivity of this map is really where it shines, and Obsidian is a relatively lightweight program; so if you please, install Obsidian here, and open the attached folder as a vault. 
+
+There are several advantages to this set up from the perspective of an academic/grad student. First, my notes/annotations on a given article are extracted to a markdown file. I use my notes to explore ideas, note insights, ask questions, and form connections. I use tags to organize and add some color coding to my map - dark red dots are specific articles that I've read. Light red dots are papers to read next in a given area, these link back to the paper that references them. Light blue dots are guiding questions - the goal is for these to eventually become papers in the event that my reading does not adequately answer them.
+*** subject summary
+I set George Galster's (2001) work on neighborhoods as the focal point of my map and branched into the intersection with public policy - my entry to the field of geography. From there I explored his typology of neighborhood dimensions and my areas of interest. In the context of the growth in homelessness in recent decades, Galster's dimensions seem to miss encampments, to say nothing of the largely invisible homeless population. As well, Galster's work predates the explosion of technological advancement and in particular, big data - so another question I have is how should we come to understand the digital neighborhood? And finally, my entry to geography from public policy is in regards to school catchment boundaries - a forthcoming paper I worked on uses Galster's notion of congruence to understand the nexus between schools and neighborhoods, and I want to continue to work in this literature, as there are still lots to explore. The next question here is how (in a perfect, apolitical world) might we optimize the drawing of these school boundaries to ammeliorate segregation? Could we use an optimized drawing algorithm to identify schools that are eggregiously segregated? Could we track previous iterations of drawn boundaries to identify 'bad actor' school administrators?
+
+* Done
+** DONE Follow up with Prof Aitken about 'Media Geography' 
+CLOSED: [2022-09-09 Fri 13:37]
+** DONE Sync '701' zotero library with annbib.org
+CLOSED: [2022-09-30 Fri 13:50]
+** CANCELLED Review/sign up for citation alerts
+CLOSED: [2022-09-30 Fri 13:51]
+**** Specific journals
+***** Geography Compass
+**** Specific authors
+** CANCELLED Look up Paul Robins
+CLOSED: [2022-09-30 Fri 13:51]
+    - Author from last week (NRC critique)
+    - Role of /power/ in each of these areas
+    - Why are these problems the way they are in the first place?
+      
+** DONE Progress annotated bibliography into a concept map
+CLOSED: [2022-10-29 Sat 10:49]
+*** TODO Divide literature into subjects
+**** 'Theory'
+***** Digital geography
+**** Policy areas
+***** Homelessness
+***** Policing
+***** Schools

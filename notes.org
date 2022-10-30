@@ -1,0 +1,499 @@
+* Notes
+** 8/22/2022 :week1:
+*** first half of class a discussion of the readings
+**** 'jigsaw' activity with articles
+**** focus of class is to write a broad lit review of thesis
+**** using class to streamline thesis process
+**** by end of course, will have a annotated bib with 30 refs, springboard to thesis
+*** Get started on
+**** Entrance interview with advisor
+***** Some overlap with phd entrance interview
+**** Colloquium summaries
+***** 1 page, 4 required
+***** listed online on geography.sdsu website
+*** The annotated bibliography will get some work each week
+**** Read and write about two articles each week in a document
+**** Link the document to SA and TB spreadsheet (on canva)
+***** They can read it whenever to check progress
+***** Other students can look, too.
+*** Steps to understanding an article
+    1. Whats the (research) question?
+    2. Whats the method used to answer the question?
+    3. What's the answer to the question?
+*** for next week
+**** TASK read and reflect using prompts from canva
+***** DONE Read nrc (national research council) report              :reading:
+CLOSED: [2022-08-29 Mon 13:24]
+****** part 1
+******* purpose is to formulate a short list (11) of high priority research questions in geographical science that are relevant to societal needs. these can be grouped as:
+
+       1. how to understand and respond to environmental change?
+       2. How to promote sustainability?
+       3. How to recognize and cope with the rapid spatial reorganization of economy and society?
+       4. How to leverage technological change for the betterment of society and environment?
+
+******** nrc committee used criteria to forumlate research directions:
+
+       - clear societal significance
+       - must be central to core geographic concepts
+       - must relate clearly to agendas of larger scientific community
+       - must be tractable (demonstratable)
+       - must be answerable using existing data or methods
+******* "geographical sciences are about more than simply mapping, rooted in concern with the interaction of phenomena and systems treated as distinct." :quote:
+******* Central feature of geographical sciences is the recognition that local/regional circumstances affect larger scale processes.
+******* explosive growth of geographical data and technology results in multi-investigator, transdisciplinary projects.
+****** part 2
+******* explores each of these questions in depth. summarizes the state of current research and describes potential roles and contribution of geographic sciences
+****** part 3
+deals with how to move forward to address the goals listed in part 2.
+Technological and infrastructure challeneges, many of which will have progressed greatly in the time since the report was published, as well as ways to train new geographers and perform outreach to people in positions of power who may be unaware of the depth of information offered by geographical techniques. 
+***** DONE Read 2001 (Cutter)                                       :reading:
+CLOSED: [2022-08-29 Mon 13:24]
+****** NYT guy asks, Why do geographers suck? missing the 'big picture issues' in their research?
+******* 'academic culture' problem?
+	+ social structure of geographers leads to quick investigations that lead to publications/tenure
+	+ geographers scattered, difficult to rally around large research issues
+	+ AAG should create new incentive structures (don't generalize contributions, encourage recognition)
+******* Deeply held human need to create boundaries, divide space?
+        + consequences of human development, environmental degredation, exasperation of inequality, suburbanization and isolation from community
+******* link between physical deliniations and our perception of space
+	 - public vs private
+	 - interactions and sense of community
+	 - Map of US with states vs water basins
+	   - examine water networks through the actual networks or the bodies that control them with policy? 
+******* /strained/ Thomas Jefferson conclusion
+         - written in 2002 
+**** TASK [#B] Read Critiques
+**** DONE Biosketch/photo
+CLOSED: [2022-08-29 Mon 13:24]
+*** Action items
+** 8/29/2022 :week2:
+*** Skipping week 3 (labor day) 
+*** Literature Review assignment
+     - 10-15 page document which will feed into a similar assignment in next semester's course (Geog700)
+     - The 700 assaignment will lead the reader to naturally reach the research question.
+     - Make the case and rationale for the research question
+     - in THIS class, the purpose is to synthesize research in /and around/ my thesis area.
+     - ID central issues, questions, or debates in a given subfield
+*** Gaile readings describes 3 revolutions
+**** Quantitative revolution (1960-1970s)
+      - Prior, geography was charaterized by the elaborate descriptions of places and how they differ from other places
+      - Sounds like classical anthropology, /descriptive exceptionalism/,
+      - goal became to interpret in terms of /nomothetic/ (generalizable) and /idiographic/ (understand contingent)
+      - /Logical positivism/ (Comte) or /Critical rationalism/ (Popper)
+**** Marxist revolution (1970s)
+      - Sense of urgency and activist framework
+      - Need to solve these problems now
+**** Post-modern/post-structural
+      - Knowledge is socially constructed, relative to the structures that construct them
+*** geographical thinking
+   - uniquely preoccupied with defining their discipline
+   - places are the expression of flows of matter, information, energy, power, into and out of a given place
+   - human-environment interactions are central
+   - focus on patterns and processes vs predictive precision
+   - see Hurricane Katrina example in NRC report
+*** Actions
+*** DONE Readings for week 3(4)
+CLOSED: [2022-09-12 Mon 15:34]
+**** TODO Aitken Ch1 | Approaches
+**** TODO CH1 Cresswell 
+***** What is theory?
+****** Metaphor of a 'lens'; it imposes conceptual order on messy reality
+****** "At it's most basic, ordering the multiplicit of raw experience and facts"
+****** "That I have a theory suggests that I have come up with a plausible explanation which includes a certain level of complexity. Not an explanation that can be proved or disproved, simply a plausible one."
+****** distinguish between philosophical theory (e.g. marxist theory of labor value) and a theory in physical science, can't be tested in the same manner
+***** Since 1970s, use of the word theory is more generalized
+****** used to refer to work that seems to have utility to thinkers across a range of fields. 
+** 9/12/2022 :week4:
+*** No Dr. Biggs today
+**** Political ecology, community issues stems from anarchist theories
+**** Jiggsaw
+***** Theory is important
+****** Examine our own biases and the biases of others
+***** 'Lenses' - do you need to take one off to put another on?
+****** "onions have layers"
+***** Theory drives practice
+***** Geomorphology
+****** Darwinism and physical geography
+***** WAITING Environmental determinism
+****** TODO come back to this
+****** used to justify all kinds of evil (empire)?
+******* tropical peoples are inherently lazy, fit to be dominated
+******* let's 'help' these people 'develop', be more like 'us'
+******* best intentions
+******** take our GMO corn
+******** oh but you need our ferts, our tech
+********* oh and you don't need labor, sorry about your unemployment.
+******** "where does the insidiousness creep in"
+********* the IMF?
+***** asking questions from the perspective of flawed human beings of a world we can never truly know
+****** models are abstractions of the observable world
+*** TASK Readings for week 5
+**** Approaches CH 2
+***** What is Positivism?
+****** Auguste Comte (1798 - 1857) considered father of positivsm
+******* What is the exact, the useful, the organic, the relative?
+******* DGAF about ontologies, speculative.
+******* What is observable and testable? That's what matters.
+****** Logical Positivism (proving stuff true)
+******* Vienna Circle (1920s and 30s)
+******** Naturalism, based on 6 assumptions
+********* based in "rationality"
+********* application of laws of positivist science can change societies. 
+********* scientists are detatched, neutral observers
+******** advocated quantitative measurments of facts to test relationships of variables
+******** statistical likelihoods and causal inference
+******** Objectivity is enforced through adherence to 5 principles:
+	1. Originality – their aim is to advance knowledge by the discovery of new knowledge.
+	2. Communality – all knowledge is shared, with its provenance fully recognised.
+	3. Disinterestedness – scientists are interested in knowledge for its own sake, and their only reward is the satisfaction that they have advanced understanding.
+	4. Universalism – judgements are on academic grounds only, and incorporate no reflections on the individuals concerned.
+	5. Organised scepticism – knowledge is advanced by constructive criticism.
+******** distinguished between synthetic and analytical statements
+********* analytical statements internally validating /a priori/, for things impossible to test
+********* differs from Comte
+******** forwarded scientism
+********* the claim that the positivist method is the only valid and reliable way of obtaining knowledge, and all other methods are meaningless because they do not produce knowledge that can be verified
+****** Critical Rationalism (proving stuff false)
+******* Karl Popper
+******* contends that the truth of a law does not depend on the number of times it is experimentally observed or verified, but rather whether it can be falsified
+***** Positivism in human geography
+****** Quantitative revolution
+******* Starting in the 1950s, geographers began to argue that geography needed to become more scientific
+******* shift from ideographic (fact gathering) to nomothetic (idea producing)
+******* Hope to ID universal laws that explain spatial patterns
+******* Development of models and equations
+******* Golledge and Amedeo (1968) four kinds laws being developed by geographers
+******** Cross-sectional
+********* functional relationships, no causal connections
+******** Equilibrium
+********* What will happen if certain criteria are met
+******** Dynamic
+********* Notions of change - what happens to y if x changes
+******** Statistical
+********* probability statements - what is the change that B happens given that A is true
+****** Hill (1981) argues spatial science borrowed scientific method without examining philosophical underpinnings 
+******* "positivistic" rather than "postivist"
+****** David Harvey's /Explanation in Geography/
+******* milestone text for geography
+******* geographers had not examined how or why geographical knowledge was produced
+******* nor had they forwarded a theoretically methodological base for the discipline
+****** Much of Geography is implicitly positivist
+***** Criticism and challenges to positivist geography
+****** 1960s - social unrest led geographers to ask if their discipline could engage with practical solutions
+****** critique of ontology and methodology
+******* spatial fetishism - decoupling space from time and matter
+******* Spatial science limited to certain kinds of questions and answers
+******* it "treated people like they were devoid of irrationality, ideology, and history"
+******* David Harvey did a 180
+******** there is ‘a clear disparity between the sophisticated theoretical and methodological framework we are using and our ability to say anything meaningful about events as they unfold around us.’
+******** the only way to address such issues was to turn to radical theories such as Marxism
+********* uncover the capitalist structures that underpinned social and economic inequalities and regulated everyday life
+********* transform such structures into a more emancipatory system
+***** Positivism in geography today
+****** positivism still implicit in geography
+******* 'scientists' who 'seek to understand reality'
+****** many practice geographic inquiry without a thought for philosophy
+******* lacks fundamental ideological, ontological, epistimological base
+****** big data heralds return of positivism
+******* immense in scale, granularity, and is relational.
+******* every interaction generates data 
+******* "end of theory"?
+******* "deluge of data makes scientific method obsolete"?
+**** optionals
+***** Berry ("looks like GIS")
+***** Shaefer and Castree are similar from different times
+***** Garret (drones)
+** 9/19/2022 :week5:
+*** DONE Epitome paper due next Sunday 
+CLOSED: [2022-09-26 Mon 10:57] DEADLINE: <2022-09-25 Sun>
+What is the epitome of a 'geographic paper'?
+**** Coffee shops and Street Stops; Ayobami Laniyon
+*** Jigsaw
+**** positivism should be considered as separate from quantitative geography
+***** quantitative geography assumes that 'universal laws' and absolute truths cannot be found, or are very difficult, and ultimately maleable by new information.
+***** logical positivism suggests that if you get enough data, you will find the total observable reality and therefore understand why, absent of any ideology.
+***** history of logical positivists include economists utilizing geography to understand the rationality of where things were placed, particularly in an urban setting. 
+***** also includes rationalizing Nazi empire (living space). 
+**** Harvard geography disputes
+***** Richard Hartshorn(?) and other geographers prior to the 1950s begin with understanding that Space and Time (Kant) are fundamental building blocks of all sciences
+***** geography breakdown in 1950s led to rise in quantification
+**** There's almost always a theory underneath an investigation
+***** assumptions in the question formulation
+***** observations a priori are theory-laden
+*** TASK Readings for week 6
+**** TODO Brown (1) - responsible
+***** focuses on the importance of developing methodologies that encourage critical self-reflection in with uncertainties in environmental research
+***** theories cannot be merely refuted by observations, but require deeper argumentation, and must be open to re-evaluation (reality exists in an unconcious state and achieves 'life' when we percieve it i.e. Kant)
+***** division of reality into (River Thames flooding example)
+      1) real mechanisms,
+      2) actual events,
+      3) empirical observations
+***** convergence of top-down and bottom-up approaches in understanding reality
+****** theorizing beyond appearance is the essence of science
+***** uncertainty in physical geography viewed as expression of our inability to resolve a unique, causal world
+****** interdependency of all things (theory of relativity) 
+****** non-linear sensitivities to immeasurably small differences (chaos theory)
+****** presence of many plausible theories common in geography (equifinity)
+***** Closure - the act of defining and delimiting an investigation by imposing boundaries
+****** Lane suggests that limits are placed typically on space-time boundaries
+******* practical purposes rather that process, discrete perspectives as opposed to continuous, oversimplification
+******* choice of modelling employed also can induce uncertainty
+***** Taxonomy of imperfect knowledge
+****** previous taxonomies focus on /types/ or /sources/ of imperfect knoweldge
+****** can't know the exact gap, but we can know that a gap exists (accepted ignorance)
+****** a simple taxonomy would distinguish between ignorance and states of confidence (i.e. we know there is a gap here)
+******* it is useful to distinguish between ‘outcomes’ or scenarios, as possible states of ‘reality’ (mechanisms, events, observations), and ‘probability’ (chance, likelihood, plausibility), as a degree of confidence about possible outcomes. Secondly, it is useful to distinguish between ‘bounded uncertainty’ or ambiguity, where all possible outcomes are deemed ‘known’ (they can be distinct or indistinct), ‘unbounded uncertainty’, where some or all possible outcomes are deemed unknown, and indeterminacy, where some possible outcomes are deemed unknowable.
+****** Spectrum of confidence figure on 374
+***** uncertainty analyses
+****** some debate on openness in reseach (i.e. intersections with politics and public policy)
+****** uncertainty analysis doesn't mean much if the research wants/needs to produce definitive statement or novel interpretation
+****** should educate the decision maker to the degree of uncertainty
+****** improve the cogency of questions directed toward research assumptions
+***** developing methodologies that question belief
+****** reducing error vs developing tools to address uncertainty
+**** Skim Beven (2) and Lave (3)
+** 9/26/2022 :week6:
+*** Jigsaw
+**** moving from science as a set of investigations into /how science functions/ in society 
+**** "social epistymology" - development of knowledge is dependent on social position
+***** more diverse perspectives leads to stronger objectivity
+**** closure also refers to your starting point in a research question.
+**** hypotheses are /deductively/ reasoned
+***** reasoning following knowledge, following theories
+**** equifinality - multiple working hypothesis can explain the same phenomenon simulataniously
+*** TASK readings for week 7
+**** Powis (4)
+***** Studying groundwater through the interplay of materiality and representation
+***** Groundwater is maleable, constantly reconfiguring itself through contact with other grounds
+***** Urban groundwater an archive or a 'ruin' - defined by continuity and contamination
+****** "Groundwater" a hybrid materiality of 'grounds' and 'waters'
+******* auquafir suggests static water, we need to think about inseperably relational materiality
+****** "groundwater is not an archieve, but it creates one"
+****** groundwater processes highly charged and political
+******* EX. Building a train tunnel network in South India
+******** Injected goop to try to break up rocky stretch of tunnel caused ground to burst in homes with grey goop
+********* "Fluidity, part of everyday passenger experience"
+********* Also reduced groundwater levels during a drought
+***** Author describes a brief history of the region and groundwater mechanics therein 
+***** Author describes the process of stratigraphy for tunneling purposes
+****** Taking cores of the ground and running analyses on the cores and holes to infer models of what happens in between
+******* Argues that this is insufficient, speculative, because the groundwater is not a geological record
+******** "The authority of the borehole logs as source material when superimposed onto the section is undermined by thee geometries the supposed strata are forced into"
+***** Author describes the development of porosity measures 
+****** Darcey's equation shows that groundwater properties dependant on the properties of the fluid and the material - necessarily relational
+***** Impermiable modeling
+****** always invlves a lot of guesswork
+****** "As I am arguing, the solid material and the fluid cannot reasonably be divided"
+***** pressure
+****** example of train pressing down on the ground, causing the pores to close and expell water, or not let it in
+******* ergo the concept of urban ground as a 'sponge' is dumb
+******* "Thinking in terms of pressure, not strata, offers an image of the ground as a squashy co-ordination of surfaces, wedges, beds: degrees of saturation, densities, and flows"
+***** tunneling groundwater
+****** increasingly difficult where strata is consistently inconsistent
+****** engineers consider water as a separate problem, to be considered if encountered rather than linked to the ground
+***** "Leaky Theory"
+****** a processes by which groundwater exceeds categorization
+****** not borders, but relational exchanges that need to be maintained
+****** focus on what things do and how they change rather than 'what they are'
+** 10/3/2022 :week7:
+*** Jigsaw
+**** humanistic geography is a critique of positivism, which ignores human impact on earth.
+**** rationality (as in economics) is BS
+**** "essence" of humans is their impact on earth
+**** Place is an added importance to a location given by humans
+***** essense of humanism
+***** an idea instead of location
+**** activists and feminist geographiers is the new humanists
+***** seeks to participate in phenomenon in general, rather than pursue objectivity
+**** geohumanities
+***** geolocation on top of social studies
+***** deep maps
+****** chronology is key
+****** 'the spatial turn' 
+*** Discussion
+**** Is humanism separate from science?
+***** Just another part of science?
+***** humanism reaction against science?
+****** route science dehumanizes essentializes what humans are. 
+****** Cresswell argues that they're two sides of the same coin based on philosophy
+******* emphasizes human reasoning rather than predestiny 
+******* human focus
+******* denies differences in humans - essence of humans is universal.
+****** existentialism is interested in how we know
+****** phenomenology interested in how we come to know things before language, before consciousness
+*** TASK Readings for week 8 (complex systems, human environment interactions)
+**** 2 (Cote)
+***** Resilliency framework
+****** Social ecological systems (SES)
+******* resilliency as a concept in ecology emerged in the 1970s to refute 'the balance of nature' and 'equilibrium cycles' types of frameworks 
+******* refers to the capacity of systems to absorb disturbances while retaining their populations, cultures, state variables, etc.
+******* better in that it does not concieve of human and environmental systems as separate but integrated with feedback loops
+******* adaptive dynamics inherent property of SES
+***** Critique
+****** Resilliency frameworks mistakenly assume that systems are more homogenous than they actually are
+******* normative factors, such as power relations and cultural values are integral to these dynamics, which are not the same across all people in a given system
+******* analysis of capacity to change must be situated within historical context and ethical standpoints of actors involved
+******* key questions
+******** Does the resillience of some actors result in the vulnerability of others?
+******** Do institutions and processes that enocurage inequality result in 'more' resilliency for these groups?
+****** tension between 'homogenized, uniform, indigenous knowledge' and 'knowledge conceptualized as a process' (science)
+****** axes of social differentiation (race, gender, class, etc) are crucial starting points to understand power dynamics
+****** political and ethical questions are crucial drivers of socio-ecological outcomes - not something to be filtered out of a model
+**** if time (4, Seto)
+*** APCG
+** 10/10/2022 :week8:
+*** Announcements
+**** Concept maps outline due 10/30
+***** Doesn't need to be done, just for feedback. ID where there are gaps
+****** "broad enough coverage, but specific enough focus"
+**** First draft of lit review due 11/6
+***** following week: review of 2 peers due
+**** Continue iterating until final due date 12/12 
+*** Jigsaw
+**** Resilliency comes out of ecology, getting away from elementary modeling of predator/prey
+***** Panarchy - adaptive cycles in a nested hierarchy of spatial scales - individual, community, landscape, continental, global etc
+****** feedback loops within these scales - the larger, the longer the temporal feedbacks within that scale
+******* ex - wildfires in a room vs landscape
+****** transofmration to a sustainable set of feedback loops rather than the control of ecosystems
+**** Resilliency may actually be bad
+***** Resistance to change?
+**** Tyrany of small decisions
+***** many different groups making decisions in silos based on their perceptions and goals 
+***** not looking holistically at the ecosystems in which they reside and interact with
+***** treating symptoms instead of causes
+***** annual floods vs 10 year floods in terms of collective memory
+****** We forget steps we took to prevent and address the crisis as it receeds into history.
+**** human values (perceptions) can be modeled in their relationship to ecology? - Sivapalan
+***** nobody cares about the floodplains until they degregate beyond a certain threshold
+****** at which time the interest (valuation) increases 
+***** "Pendulum swing"
+****** avoid the drastic swings (reduce the velocity of the swing)
+***** Evaluate feedback loops to intervene for desirable outcomes
+**** Seto criticizes place-based thinking 
+***** rural/urban distinction limits interconnectivity between the two 
+***** ignores fringe areas with elements of both rural and urban
+***** gain more from thinking about teleconnections that are driving the land cover change
+****** wealthy investors from NY owning farms in imperial valley, driving the drying up as the Salton Sea
+***** World-systems theory 
+****** San Diego to imperial valley farms as Core vs periphery
+*** TASK Readings for week 9
+**** TODO 4 Gahegan
+***** Discusses prospects of automating discovery of explanatory models from geospatial data
+****** going beyond machine learning to the formulation of theories, explanations of connections
+***** examples of progress
+****** Eve (robot chemist)
+******* knowledge base of observations 
+******* model of the science process to determine next steps
+******* constraints based on theories of what is already known, guidance
+****** wildfire discovery system
+******* Geostationary operational satellite system (GEOS)
+******** takes images every 20 mins, finds and predicts wildfires before humans
+***** various snippets of accepted theories and frameworks as foundations of automated modeling
+****** theories checked against inputed data
+****** correlation does not equal causation
+***** Proposes inductive model of autonomous discovery
+****** setup
+******* training data
+******* rules and constraints
+******* domain knowledge
+****** structure search
+******* combine equations, structure the search and limit via constraints
+****** parameter search
+****** model refinement
+****** report results
+***** Combine inductive model with Harvey's Explanation
+****** Given:
+******* a methodological framework for research and
+******* a meta-model for the process of research and
+******* a set of representational models (domain data models) and associated data structures,
+******* and observations for a set of variables as they change over time and/or space;
+******* a set of entities that may participate in the model (such as map features, categories) and
+******* a library of processes that specify relationships among entities and
+******* a set of constraints describing plausible relationships and values among processes and entities;
+****** Find:
+******* a specific process model and associated parameterization that not only explains the observed data but also predicts unseen data accurately.
+** 10/17/2022 :week9:
+*** Wrap up the literature review
+**** What are the big questions in the field
+**** What are some ways that geographers have attempted to answer these questions?
+*** Jigsaw
+**** Kwan - earliest chronologically
+***** there are issues that quant analysis will struggle to explain
+****** e.g. homelessness data does not lend to systematic explanations
+****** important to view quant and qual as both essential - you approach a more complete explanation
+****** "You can't put numbers on lived experiences" But can you?
+******* There are complexities to human dynamics that could be interpreted incorrectly if quantified
+**** Pavlovskya
+***** Quant and qual not irreconcilable
+****** Need both for explanatory power
+****** "life will always be more complex than any system" 
+***** Aitken thinks we need a 'tension' between quant and qual specialists
+****** More fruitful than trying to begin in the 'common ground' 
+**** Brown
+***** use of public resources survey 
+***** survey sampling differences between systemtic vs participatory
+****** also close vs far
+****** sampling methodologies matter A LOT. 
+******* Getting your population from interest/industry groups
+******* Can't make assumptions about who will favor what - rural/urban 
+***** "Who is the public"
+****** Can you ever fully and completely define stakeholders?
+******* Externalities from carbon emissions - no you can't
+****** public is not an extant reality
+******* participation bias/levels
+******* selection bias
+***** Participatory GIS vs Public Participatory GIS
+**** Gahegan
+*** TASK Readings for week 10
+**** TODO Noora Pyyry (purru) paper on enchantment (all)
+***** Enchantment
+****** "embodied, highly affectual, agonizing, violent, loud, and immensely sad. Also love in all it's vital ferocity."
+****** "sensation of being lost and found all at once, a sudden and overwhelming feeling of distance, of disinterested clarity"
+****** "triggers generosity for all life’s complexity, and is therefore an important resource for ethical being"
+****** "feeling that things could be different"
+******* "A better world is possible"
+****** "pure presence and pure absence"
+****** "when all familiarity is shattered in a radical upheaval of the world itself, when all settledness is suspended, there erupts, in this moment of hesitation, the potential for a reconfiguration of possibilities"
+****** unheimlich (uncanny)
+***** Can be triggered by negative affect
+****** despair calls one to act
+****** The radicality of the event distributes new possibilities by closing down all possibilities, it pushes a window open for /something else/
+***** Raine's memory
+****** "staring in wonder at a world suddenly expanded, overwhelming, aching with significance. Everything becomes saturated, full, yet tinged with sadness, flush with emptiness. And I, suddenly a part apart, am lost. Outside time."
+***** "So what?"
+****** politically energizing?
+****** "The political power of enchantment radiates from a forced change of direction, an intense call to rethink the world. 
+****** If one manages to do so, ‘the paralysis of hopelessness’ is fended off, even if just for a passing moment. as real possibilities. But the rethinking must arise from an acceptance of the limitations of life from the loss of what was, and the joy of not-knowing"
+******* What if it comes from a place of rejction, entitlement?
+****** capitalism, hegemony
+******* "energy of the event is immediately drained by the dominating powers that find ways to either incorporate the event into their own operations or redirect its force of rupture."
+******* The reinforcing of hegemony by appropriation of activist themes
+******** Kendal Jenner Pepsi commercial 
+******** Black Lives Matter symbology in health systems (hackathon)
+********* When health outcomes for black people in the US are probably most exasperated by the legacy of racism in privatized (unprotected) health care
+******* "Part of the logic is to mass produce experiences that feel just authentic enough to keep us hooked. In the contemporary technoscientific world of continuous experience production, our attention is steered to always follow the next cue"
+******* Identity is packaged and sold
+******** We are so beaten down that we have no energy for political action, nor any faith that anything will change
+********* therefore we seek to be validated by our actions in the omnicient market
+******** It's the dang rectangle in our pockets!
+***** Relate to The Sublime (Kant)?
+****** feeling of awe, inspiration, terror, inadequacy
+****** witnessing or comprehending a great or terrible event leaves us in a state of /sublimity, enchantment/.
+****** difference is that sublimity is more personal, enchantment more interpersonal social? can be felt in conjunction with other people
+***** relate to ego-death and psychadelics?
+**** TODO 3 CH8 in Geographic Thought 
+**** NEXT ch 7 in geographic thought
+**** NEXT ch 5 in approaches
+*** Breakouts for annotated bib
+**** DONE Helsinki segregation scholar - venla.bernelius@helsinki.fi
+CLOSED: [2022-10-18 Tue 12:23]
+My name is Dylan Skrah, I'm a 1st year PhD student in Geography at San Diego State University. I'm writing at the recommendation of your colleague Dr. Noora Pyyry, who we are fortunate to be hosting. Dr. Pyyry attended one of our classes yesterday and provided feedback to several graduate students' research areas, including mine. My work has involved quantifying segregation in U.S. schools, and I am hoping to expand the scope of my research to include other important, intersecting areas: policing, homelessness/housing markets in urban development.
+
+I read your 2019 paper with Timo Kauppinen and Maarten van Ham; school catchment zones represent a particularly interesting avenue of investigation to me due to the poor quality/quantity of catchment data in the U.S. As well, the prevalance of school choice mechanisms, general distrust in public schools, and a constant advocation to shifting public funds to private and charter institutions seems to greatly contrast the situation in Helsinki; I believe there is room for much work here.
+
+I am hoping to ask for your perspective on gaps in knowledge in the literature in these areas. I am reading a lot of interesting articles, but a direct inquiry for my dissertation is thus far unclear.
+** 10/24/2022 :week10:
+*** TASK Readings for next week; political ecology
+**** TODO (2) Montay 
+*** jigsaw
