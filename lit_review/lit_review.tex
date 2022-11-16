@@ -1,0 +1,31 @@
+% Created 2022-11-06 Sun 19:49
+% Intended LaTeX compiler: pdflatex
+\documentclass{article}
+\usepackage{filecontents}
+\usepackage[authoryear]{natbib}
+\usepackage{usebib}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+
+\newcommand{\printarticle}[1]{\citeauthor{#1}, ``\usebibentry{#1}{title}''}
+
+\begin{document}
+\title{GEOG701 Literature Review}
+\author{Dylan Skrah}
+
+\maketitle
+\tableofcontents
+
+\section{Galster's Neighborhood}
+\input{galster}
+
+\section{School-Neighborhood Nexus}
+\input{school_neighborhood_nexus}
+
+\section{Homelessness dimension}
+\input{homelessness}
+
+\section{'Big Data'}
+\input{big_data}
+
+\end{document}

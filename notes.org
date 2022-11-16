@@ -495,5 +495,28 @@ I read your 2019 paper with Timo Kauppinen and Maarten van Ham; school catchment
 I am hoping to ask for your perspective on gaps in knowledge in the literature in these areas. I am reading a lot of interesting articles, but a direct inquiry for my dissertation is thus far unclear.
 ** 10/24/2022 :week10:
 *** TASK Readings for next week; political ecology
-**** TODO (2) Montay 
-*** jigsaw
+**** TODO (2) Montay
+** 10/31/2022 :week11:
+*** jigsaw - contrast the papers by what they're interested
+THere's an intersection between the mind of the technical analyst , the actual environment, and how the environment is conceptualized by interested parties. These group of papers tries to disect this epystimology
+**** Robbins interested in sussing out the ways that different interest groups can induce and resolve disagreements about definitions in a given study
+**** Mantaay was about the problems in modeling/mapping environmental injustice - data scarcity and software and exposure models themselves.
+**** McClintock was about the distribution of environmental hazard exposure in oakland, they line up with the redlining maps - Marxist historical materialism
+**** Brown - Brevety and conciseness as a trade-off to accuracy and depth; also how well literature tends to discuss their methodology in terms of how they define and exclude aspects of their subject
+*** NEXT Readings for next week 
+**** TODO (3) Borner et al.
+** 11/07/2022 :week12:
+*** NEXT Readings for next week
+**** Bosco - Ch 11
+
+**** Pugh - antrhopocene 
+** 11/14/2022 :week13:
+*** Jigsaw
+**** actor network theory
+**** island theory
+***** changes happen on the margins
+***** not literal islands
+***** differs from previous theorizations in class, which were all contenental
+***** the antropocene and climate change go beyond materialism and human comprehension
+****** how do we deal with phenomenon spanning epochs
+****** We need before, beneath, and beyond our current comprehension
