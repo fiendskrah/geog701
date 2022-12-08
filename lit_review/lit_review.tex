@@ -1,31 +1,38 @@
 % Created 2022-11-06 Sun 19:49
 % Intended LaTeX compiler: pdflatex
-\documentclass{article}
+\documentclass[doc,longnamesfirst,sort,round,12pt,natbib]{apa6}
 \usepackage{filecontents}
-\usepackage[authoryear]{natbib}
 \usepackage{usebib}
 \usepackage[utf8]{inputenc}
 \usepackage{enumitem}
-
-\newcommand{\printarticle}[1]{\citeauthor{#1}, ``\usebibentry{#1}{title}''}
+\usepackage{apacite}
+\usepackage{hyperref}
 
 \begin{document}
 \title{GEOG701 Literature Review}
+\shorttitle{701 Literature Review}
 \author{Dylan Skrah}
-
+\affiliation{San Diego State University}
 \maketitle
-\tableofcontents
-
-\section{Galster's Neighborhood}
-\input{galster}
+\pagebreak
+\maketableofcontents
+\pagebreak
+\section{On 'Neighborhood'}
+\input{introduction}
 
 \section{School-Neighborhood Nexus}
 \input{school_neighborhood_nexus}
 
-\section{Homelessness dimension}
+\section{Homelessness Dimension}
 \input{homelessness}
 
 \section{'Big Data'}
 \input{big_data}
+
+\pagebreak
+\section{Annotated Bibliography}
+\input{anbib}
+\bibliographystyle{apalike}
+\bibliography{701.bib}
 
 \end{document}
