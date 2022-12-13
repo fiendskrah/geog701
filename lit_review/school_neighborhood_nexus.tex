@@ -11,14 +11,14 @@ granular spatial and temporal policy analysis.
 
 Individual schools have boundaries that determine which students will
 attend that school, called school attendance boundaries or school
-catchment zones. These boundries nest within the geography of larger
+catchment zones. These boundaries nest within the geography of larger
 school districts, which themselves fall within the boundaries of
 individual cities and counties. These nesting, discrete boundaries
 each have their own governing bodies which each apply their own
 regulations and policies on top of existing state and federal
-policies, all of which, in part, determine how we concieve of
-different spaces. The higher resolution (smaller) geographies have
-stronger impact on how we concieve of individual neighborhoods, and
+policies, all of which, in part, determine how we conceive of
+different spaces. The higher-resolution (smaller) geographies have
+stronger impact on how we conceive of individual neighborhoods, and
 crucially, they lend themselves well to measurements and hypothesis
 testing of policy impacts via spatial statistical methods.
 
@@ -27,7 +27,7 @@ contexts and their effects, school catchments are very difficult to
 study in the U.S due to a lack of institutional support for catchment
 data - the latest nationally representative data year is the 2015-2016
 school year, and even this is not without issues. Beyond the
-relatively 'normal' issues that occur with spatial data such as opaque
+relatively `normal' issues that occur with spatial data such as opaque
 and obscure coding logics, the School Attendance Boundary Survey
 (SABS) data are effectively an amalgamation of data from disparate
 educational agencies which may have different ways of gathering and
@@ -37,7 +37,7 @@ additional processing before any spatial methodologies (such as
 regionalization) can be applied. One major avenue of work that would
 elevate the school-neighborhood nexus literature at large is
 institutional support for consistent and consecutive SABS data-years
-(akin to the Census' American Community Survey).
+(akin to the American Community Survey).
 
 
 \subsection{School Catchments and Segregation}
@@ -47,15 +47,15 @@ Urban Institute that explicitly analyzed school catchments as a
 mechanism for segregation, and highlighted cases in the U.S. where
 intense pockets of segregation persist, even though the general levels
 of school segregation have decreased in recent decades. While this
-report performs a very interesting analysis linking pairs of highly
+report performs a very compelling analysis linking pairs of highly
 segregated schools to the inequalities created by the New Deal's Home
 Owners' Loan Corporation redlining policies using historical maps, it
 unfortunately utilizes a privately sourced dataset, rendering the
 findings impervious to reproduction and validation.
 
 In a similar vein,\cite{saporito2016IrregularlyShaped} investigates
-whether or not the 'regularity' of catchment zones across the US has
-any implication for reducing or exasperating segregation, similarly to
+whether or not the `regularity' of catchment zones across the US has
+any implication for reducing or exasperating segregation, similar to
 how congressional districts are drawn to capture a particular voting
 population, a practice known as gerrymandering. The authors find that
 on average, irregularly drawn catchments tend to have lower levels of
@@ -65,8 +65,8 @@ While this might be a consequence of different urban contexts -
 catchments in urban cores tend to be smaller with more heterogenous
 populations, whereas catchments in rural areas necessarily need to be
 larger and have a more homogenous population - it also suggests that
-school administrators could be 'gerrymandering for good'. Indeed,
-advocacy for the use of boundary drawing as a tool for policy makers
+school administrators could be `gerrymandering for good'. Indeed,
+advocacy for the use of boundary drawing as a tool for policymakers
 to reduce segregation and increase diversity in schools is common
 across this literature.
 
@@ -76,8 +76,8 @@ racial segregation in U.S. schools and Sean F. Reardon, who heads the
 Educational Opportunity Project at Stanford University, which is
 interested in quantification of opportunity in different educational
 regional contexts, primarily through variation in academic
-performance. Together, \cite{owens2016IncomeSegreation} investigate
-schools in the U.S. through these demensions and conclude that income
+performance. Together, \cite{owens2016IncomeSegregation} investigate
+schools in the U.S. through these dimensions and conclude that income
 segregation has increased in U.S. schools, measured as both
 \emph{within and between} districts.
 
@@ -88,10 +88,10 @@ segregation has increased in U.S. schools, measured as both
 \cite{bernelius2019PupilsMove} study school catchment zones as causal
 factors in intra-regional mobility and neighborhood segregation in the
 context of Helsinki, Finland. They are presented here to contrast an
-American-centric persepctive by differring significantly in political,
+American-centric perspective by differing significantly in political,
 economic, and cultural contexts. Notably, the neighborhood contexts
 are different in that schools do not have anywhere near the variation
-in quality that exists in the U.S.. Though the Nordic countries are
+in quality that exists in the U.S. Though the Nordic countries are
 famed for their egalitarian civic structures, they have their share of
 xenophobia regarding non-western immigrants. Despite high quality
 schools uniformly across the region, \cite{bernelius2019PupilsMove} is
@@ -100,28 +100,28 @@ catchment zones (via parent's perception of school quality) to be a
 causal factor. Finish parents seek out higher quality schools
 (determined by the number of native Finns, non-immigrants), up until
 they have school-aged children, presumably prioritizing stability for
-the student over their desires to find 'suitable' neighborhood
+the student over their desires to find `suitable' neighborhood
 contexts. Similarly, \cite{kauppinen2022UnderstandingEffects} finds
 that catchment boundaries are a causal factor in intra-urban
 residential mobility using regression discontinuity techniques. These
 findings are made possible in part by the Finns maintaining datasets
 that are much higher quality than exists in the U.S. and contain data
-about the entire population as opposed to a sampling.
+about the entire population as opposed to a sample.
 
 \subsection{Spatial Congruence of the School-Neighborhood Nexus}
 
 Forthcoming work by Rey and Knaap et al. (including the present
-author) direclty investigates the spatial structure of the
+author) directly investigates the spatial structure of the
 school-neighborhood nexus through Galster's \emph{congruence}. Instead
 of taking census tracts as \emph{a priori} neighborhoods, The authors
 regionalize census tracts using the \emph{max-p regions} algorithm to
 create neighborhoods that represent geodemographic clustering in the
-110 largest Core-Based-Statistical Areas in the U.S.. They calcuate
-congruence between these neighborhoods and school catchment
+110 largest Core-Based-Statistical Areas in the United States. They
+calculate congruence between these neighborhoods and school catchment
 boundaries, and find correlates between congruence and spatial and
 demographic characteristics of the spaces. These metrics are
 constructed from both focal points: schools-to-neighborhoods and
-neighborhoods-to-schools. 
+neighborhoods-to-schools.
 
 The results indicate that full congruence (parity between
 neighborhoods and schools) is the exception, not the rule; congruence
@@ -131,6 +131,6 @@ linear. Another important finding is that as the proportion of the
 Black population in a catchment grows, it tends to pull from
 \emph{more} neighborhoods, while an increase in the White population
 tends to pull from \emph{fewer} neighborhoods. As well, catchments
-that pull from multiple neighborhods tend to have higher levels of
+that pull from multiple neighborhoods tend to have higher levels of
 diversity and are less regularly shaped, lending evidence to support
-the claims of 'good gerrymandering' suggested above.
+the claims of `good gerrymandering' suggested above.
