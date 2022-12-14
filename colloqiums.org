@@ -1,0 +1,204 @@
+* SDSU Colloquia Series
+** Unraveling the interlinkages of the water-energy-food nexus towards achieving secuirty in the three sectors
+<2022-09-23 Fri>
+*** Shola Ololade
+Center for Environmental Management University of the Free State South
+Africa
+*** "WEF Nexus" 
+*** theoretical grounding: "sustainable security"
+**** address cause, not symptoms
+*** TODO what is the Rio20 outcome document?
+**** related to Sustainable Development Goals "SDG"?
+**** How many of these goal paradigms exist? 
+*** water, energy and food security are key to addressing social problems
+**** esp linked to the developing world
+*** Energy in SA controlled on a national level
+**** 'need to decentralize energy production"
+*** Research in SA
+**** content analysis of water policy white papers to ifnd occurance of words
+***** results indicate very little cross over. 
+**** likewise for energy to water/energy
+**** Everything in a silo
+***** beauracracies and red tape stiffle development
+**** coal/fossil fuel production highly impacting the water and food sectors
+***** coal used to generate energy
+***** creates bad water
+***** need to use energy to clean water
+**** "Use waste in one sector as an input in another sector"
+**** need to start linking ecological advancements to social advancements
+** Assessing Spatiotemporal Vulnerability of COVID19 in Singapore
+*** Yi-Chen Wang
+**** Context
+***** Social vulnerability
+****** risk exposure but community capacity to deal with natural disasters and hazards
+****** CDC's social vulnerability index
+****** SV obviously asosciated with COVID19 risks, cases, inequalities, and outcomes
+***** DORSCON system setup after SARS (2007)
+***** distinguish between imported, community, and 'dorm' cases
+****** Dorm cases arise from poor/mobile workers who live in small, crowded dorms
+**** vulnerability model
+***** Local vulnerability
+****** SES data not available at the subzone level in singapore; property transfer 
+****** Human activity intensity - measure of public transport utilization
+******* Later funded to purchase mobile phone user data 
+***** Spatial lag Vulnerability
+**** survey of perceptions of risk
+***** Online survey to understand knowledge, perception and practices of health preventive measures and indivisdual behavior
+****** N = 2000
+****** 5 sections of questions
+** Remote SensinDg of the Atmosphere using GNSS signals
+*** Dr. Pawel Hordyniec
+Wroclaw Univeristy, Poland
+**** GNSS signals are GIS/satellite signals
+**** Utilize Topozphere delays
+**** Sometimes, we need to assume something
+****** "all models are wrong, but some are useful" - George Box
+**** Troposphere delay modeling intended to deal with understanding the reraction of GNSS signals through the atmposhere
+***** much the same way that a straw will appear to bend when placed in a glass of water
+** Hunger Survivance and Imaginative Futures: A Racial Analysis of the Right to Food
+*** Dr. Adam Pine
+University of Minnesota Duluth (degrees from Rutgers)
+*** Right to Food
+**** Universial Declaration of Human Rights
+***** Article 25: Everyone has the right to a standard of living adequate for health... including food, clothing, housing.
+***** Not a right to be fed, but to feed oneself in dignity.
+**** 12-15% of americans living in food insecurity
+***** result of neoliberal state
+***** rise in voluntary sectory, decrease in gov services
+**** 6 principles
+***** acknowledging the role of white supremacy and settler colonialism in managing people of color, lifting the priorities of white identity (no time to write this down)
+****** "food shelf systems should be a tool of anti-racism, not a garbage disposal for food producers"
+****** think of racial gerrymandering as a form of hunger management, hunger segregation
+***** USDA focused on measuring hunger, rather than solving it
+****** Will not ratify the right to food
+**** Policy vistas
+***** Repairing SNAP
+***** Restoring food soverignty
+***** Revitalizing grocery stores
+****** build food acccess and community cohesion - related to food deserts?
+****** not a tool of commodity distribution, but community building
+***** reframing restaurants
+****** not just commodity distribution
+****** most workers are PoC, but most managers are white
+****** 'good, healthy food cheaply'
+****** transformations of restaurants shouldn't stop because 'covid is over'
+***** Reconstituting food pantries
+****** not 'clients', but 'members' - changing the discourse around poverty
+***** Rebuilding communication sovereignty
+****** Shifting the focus away from powerlessness and towards self-sufficiency
+** Interdisciplnary and Data-Driven Approaches to Understanding Hydroclimatic Change
+*** Morgan C. Levy
+Scripps Institution of Oceanography and School of Global Policy and
+Strategy, UCSD
+**** Socio-hydrology or human-water systems
+***** attempts to look at the impacts of both systems on each other - human societies and the physical science of water systesm
+***** hydrology and studies of the water cycle formerly rooted in notions of the 'pristine' environment, but of course humans dramatically disrupt these systems, so hydrologists adapt.
+***** extreme heat/extreme wet example (e.g. California)
+****** problem for policymakers
+**** Needs to be some level of iteration between data and modeling
+***** Unlike the social sciences, hydrology has very well developed models about hydrological processes, something between pure physics and social sciences in terms of proof. 
+***** dynamics of surfance displacement really complex, competing processes.
+**** Machine learning modelling - attempting to link data from a groundwater displacement dataset into a black box in order to predict change in groundwater. 
+**** modeling is complicated by incomplete water data due to sparse monitoring of ground wells.
+
+
+* Draft write up
+
+** Here is some general feedback about the colloquium series planning:
+
+Getting the students involved in planning and laying out the spread is
+awesome, great for getting people aclimated to the culture. However
+For one of the receptions, the student responsible for setting up the
+food didn't do the best job in selecting a good variety of snacks.
+There was typically one faculty member who acted as the 'host' - I
+presume because they were responsible for inviting the visiting
+scholar to present. This person could coordinate with the students
+setting up the food to recommend items (the visitor could be asked
+what they'd like in the invitation, for instance). Otherwise it might
+be a good idea to keep photos of 'good' spreads for reference (Andre
+is sure to have some), or a list of best practices.
+
+Theres also the issue of what to do in 'off' weeks.In some weeks, a
+speaker cannot be found. It might be cool to coordiante with 2nd year
+masters students or later year phd students to see if an alternate
+event could be set up on the weeks where there is no visiting scholar
+available to give a talk. These could be different formats, like two
+master's students giving a 20min/talk 10min/QA version of their
+thesis. Or a later year phd giving a workshop on writing tools
+(citation managers/github) In this case, you would probably want to
+alter the grading format a bit to ensure that students attended the
+visiting scholars talk.
+** My write up for the talks themselves.
+
+I attended 5 colloquiums in total.
+
+Dr Shola Ololade's talk was beneficial because it helped me better
+understand the language of geography in terms of flows (as in Action
+Network Theory, though I didn't know this at the time) and nexuses
+(which I sort of understood through my work with the school
+neighborhood nexus). The subject of her talk involved the dynamics of
+energy, water, and food, the WEF nexus.  energy production in South
+Africa is nationalized - part of Dr. Ololade's talk was an argument
+for decentralizing production and taking energy, water, and food out
+of their silos to incorporate their interconnectedness into the mode
+of production.
+
+Dr. Yi-Chen Wang's work on vulnerability of COVID19 was relevant to me
+because it dealt with spatio-temporal dynamics, though I had little
+frame of reference for vulnerability mapping. Here I learned that it's
+difficult in these talks to come to a complete undertanding of the
+modeling methodology or what specific variables are important for the
+purpose of asking questions during the QA. These types of models just
+have so much involved, especially when the data sources and general
+geographic context is unfamiliar to the listener. However learning
+about the different ways that Dr. Wang was able to measure activity
+and the different data sources that were available in Singapore
+vs. the US was interesting. The different ways that she had to reverse
+engineer SES in specific areas due to a lack of data sources was
+informative for the different economic contexts relative to the
+US. The fact that she (and anyone with the money) is able to purchase
+data tracking cell phones in the country should raise a little more
+alarm that I think it did.
+
+Dr Pawel Hordyniec gave a talk about his use of data from GNSS
+signals. While I was able to take away a minor detail about the
+refraction of the GNSS signal being relevant to his contribution
+(which I understood to be significant), I wasn't able to get much
+else. This was a particularly difficult and long week for me.
+
+Dr. Morgan Levy discussed her work in socio-hydrology or human-water
+systems. She gave a brief overview of the history of hydrology which
+was useful for me, being very outside of that field. However, as the
+data in her work came from the central valley, where I lived in my
+formative years, I think all physical geographers working in this area
+for the purpose of changing policy (this is usually regarding water
+use/systems and agriculture) should be subject to a primer on politics
+in the region. I see the widely conservative and 'small government'
+ideology that dominates the region to be a major barrier to
+sustainable policies. Dr. Levy referenced this fact in her talk, but I
+was unable to foster a deeper discussion about this during the QA -
+couldn't come up with a question!
+
+Dr. Adam Pine's talk on a raicial analysis of right-to-food frameworks
+presented a qualitative analysis of a subject tangentally related to
+mine. I am interested in the general capacity of societal organization
+to meet everyone's needs (espcially food and shelter), and there are
+certainly children who rely on the school system for 1-2 meals every
+day, and fall into food insecurity when school is out of
+session. Dr. Pine provided a list of 'policy vistas' which was of
+great interest to me due to my Public Policy background. All but one
+of these were great ideas - I voiced the political infeasibility of
+repairing SNAP, though of course I agreethat its current level of
+funding is disgraceful, the ideology of the national legislative body
+and regulatory capture more generally just will not go for it. However
+the rest of his vistas are very good areas to focus on. Organizing
+food pantries, grocery stores, and restaurants could eliminate food waste
+while also reducing food insecurity
+
+is work that needs to
+be done locally, but requires a national framing
+
+I had an unfortunate scheduling conflict for Dr. Hawtree's talk, which
+is regrettable because I think that while his study area differred
+from mine, I may have been able to learn something from his
+methodologies that could have been relevant to my work.

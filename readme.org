@@ -1,95 +1,181 @@
-Geography 701: Development of Geographic Thought
-Seminar by Stuart Aitken, Trent Biggs
-[[https://sdsu.instructure.com/courses/113619][link to Canva website]]
+Geography 701: Development of Geographic Thought Seminar
+Instructors: Stuart Aitken, Trent Biggs
+[[https://sdsu.instructure.com/courses/113619][Link to Canvas website]]
 
-* Action items
-** TASK Diagnostic interview with advisor 
-Please describe:
+* Syllabus
+** Course purpose
 
-1. your academic strengths:
+The primary purpose of this seminar is to engender a sense of what
+contemporary geographers are doing, and how they come to be doing it.
+We will discuss and debate issues relating to philosophy and theory in
+the discipline, and how academic geographers contribute to the
+professions, the sciences, the arts, and society in general.  As a
+professional geographer, no matter what subfield you adhere to, it is
+important that you have an understanding of how geographic knowledge
+is produced; this entails an engagement with philosophies, theories
+and methodologies. The seminar focuses on informed discussion of
+readings that are chosen to illustrate, explain and offer a critical
+perspective of the discipline’s development without losing sight of
+tensions and accommodations between different ways of knowing. The
+secondary focus of the seminar is to help you build a bibliography for
+your future thesis work, and a third focus is to introduce you to
+other graduate students in your cohort.  By so doing, we hope that a
+sense of community is created between you as members of an incoming
+graduate class, and between you and faculty members, as intellectual
+peers with shared interests, goals and ways of knowing the world.
 
-   + Computing:
-     - 'research' infrastructure: zotero, git, latex/bibtex, emacs; ensures ease of access, integration across platforms, version control/change tracking, concept generation and mapping.
-     - python proficiency, open source coding and research practices.
-     - confident in fitting into any research scheme and picking up any software.
-   + Background in media/culture (theory) and public policy (applications)
-   + proficient writer/proofreader/editor
-   + Enjoy teaching
-       
-2. your academic weaknesses or areas for improvement:
+Throughout the seminar, we will discuss the philosophical, theoretical
+and methodological underpinnings of contemporary geography. You will
+confront complex ideas and conceptual approaches, some of which will
+appear contradictory, and you will come to appreciate how new bodies
+of knowledge coalesce and evolve.  Although we will consider
+methodologies, the applied aspect of the field will not be a specific
+focus of our discussions, with the admonition that is difficult to
+debate the usefulness of geography without reference to its practice
+the "real" world.
 
-   + math:
-     - knowledgable in policy analysis methods (statistical methodologies, regression and diff-in-diff primarily)
-     - generally able to comprehend mathematical concepts and applications to spatial analysis, but difficulty with manual calculations and formulation of novel applications of modeling methods.
-   + 
-   
-3. general topic(s) you think might be involved in your dissertation or thesis research:
-   
-   + public policy subjects:
-     - school systems (spatial distributions of things such as segregation, academic performance, punishment, school ammeneties and staffing as a result of school/district/state/federal policy)
-     - homelessness
-     - policing
-   + urban modeling:
-     - geodemographic change (gentrification)
-     - transit networks
-     - econometrics (housing market) 
-   + digital space and political economy (in the context of intersections of above items, e.g. big data applications, role of housing market and gentrification in exasperating homelessness, post-industrial policing practices, strategies to pursue policy goals through digital communication, aesthetics)
-       
-4. 2-4 other faculty members you are interested in working with and/or having on your committee. Include faculty both in Geography and in other Departments.  Your advisor may suggest others during your meeting.
-   
-   + Sergio Rey, Stuart Sweeney, Alan Murray, 
-   
-5. your goals and objectives for the program... describe what you are hoping to learn and accomplish during the course of your graduate program;
+The annotated bibliography and literature review that you will build
+in this course are designed to contribute directly towards your thesis
+proposal work in the spring semester in GEOG 700.
 
-   + Expertise in spatio-temporal methodologies, especially as they pertain to urban systems.
-   + Depth of knowledge in geographical perspectives on key public policy subjects with ideas about how to push these areas forward;
-   + Understanding on the intersections of various theoretical perspectives on these areas
-   + Eventually use the above points to pursue policy changes
-   + Contribute to social and professional networking within the program
-     - GGSA (peer and alumni perspective)
-   
-6. your career objectives following receipt of your degree.  Describe the type of career you hope to pursue after earning your degree, and any other professional goals you hope to achieve. If applicable, include any teaching, science writing, or other non-academic career goals you may have.
-   + Aiming for a trajectory into a tenure-tract academic position. With due effort, time, and guidance, I believe I can become a very productive geographic researcher. I'm not opposed to pursuing a research career away from academia, but I do enjoy teaching and I have a perception that I would have more freedom to research what I want than if I go into a government or private researching position.
+** Learning objectives
 
-7. your needs and expectations for advising:  How often will you meet with your thesis advisor, what kinds of guidance will you be looking for?
-   + Regular 15-30 minute weekly meetings already established with Dr. Rey (remote via zoom okay). Happy to include other faculty/committee members when appropriate. 
-   + Github repository for asynchronous advising and issue tracking.
-   + Still working on connecting with Dr. Sweeney at UCSB.
-   
-8. your goals for the coming academic year: Describe your academic and professional goals for the coming academic year, including thesis defense timeline, research objectives, skills you would like to acquire, conferences or workshops you plan to attend, outreach and teaching activities, etc.
-   + The annotated bibliography assignment in GEOG 701 is my top priority for this semester. I would like to leverage some of the connections I've made here with other graduate students and professors to formulate research questions for upcoming projects. I aspire to publish some research before I graduate. I would also like to continue to build on my python skills and experience, as well as begin to incorporate R in my analysis where appropriate.
-** DONE Write up for concept map
-CLOSED: [2022-10-31 Mon 12:03]
-*** instructions/details of obsidian
+1. Summarize and discuss the philosophical, theoretical and
+   methodological underpinnings of contemporary geography, including
+   physical, human, and geographic information science.
 
-For my concept map, I'm using a program called Obsidian, which visualizes connections between documents using contextual links to create a highly interactive map of ideas and notes. Obsidian organizes these notes in individual files in Markdown (.md) in a folder refered to as a 'vault'. Please find the screenshots of the map, a few zoomed in shots of what are becoming my study areas (elaborated below), as well as the short video demonstrating a timelapse of the map's creation.  
+2. Find and summarize major historical and contemporary research in
+   your subfield of geography.
 
-There are several advantages to this set up from the perspective of an academic/grad student. First, my notes/annotations on a given article are extracted to a markdown file, lending itself to easy integration with github, and all advantages therein. I can easily sync my vault across machines and can access any given document from the cloud. I use my notes to explore ideas, ask questions, and form connections. I use tags to organize and add some color coding to my map - dark red dots are specific articles that I've read. Light red dots are papers to read next in a given literature. Light blue dots are guiding questions - the goal is for these to eventually become papers in the event that my reading does not adequately answer them.
+3. Synthesize the major research questions and/or debates in your
+   subfield in written and verbal form.
+** Course design and assignments
 
-*** subject summary
-I set George Galster's (2001) work on neighborhoods as the focal point of my map and branched into the intersection with public policy - Galster's dimensions enable a degree of quantification of neighborhoods against which hypotheses can be tested. However in the context of the growth in homelessness in recent decades, Galster's dimensions seem to miss encampments, to say nothing of the largely invisible homeless population. As well, Galster's work predates the explosion of technological advancement and in particular, big data - so how should we come to understand the digital neighborhood (thinking of areas such as the gig economy, digital surveilance/privacy, social media, digital government) And finally, my entry to geography from public policy is in regards to school catchment boundaries - a forthcoming paper I worked on uses Galster's notion of congruence to further understand the nexus between schools and neighborhoods. There is still lots of room for work in this literature - I will continue to work in this area throughout my program, starting with modeling optimized school catchment boundaries.
-* Done
-** DONE Follow up with Prof Aitken about 'Media Geography' 
-CLOSED: [2022-09-09 Fri 13:37]
-** DONE Sync '701' zotero library with annbib.org
-CLOSED: [2022-09-30 Fri 13:50]
-** CANCELLED Review/sign up for citation alerts
-CLOSED: [2022-09-30 Fri 13:51]
-**** Specific journals
-***** Geography Compass
-**** Specific authors
-** CANCELLED Look up Paul Robins
-CLOSED: [2022-09-30 Fri 13:51]
-    - Author from last week (NRC critique)
-    - Role of /power/ in each of these areas
-    - Why are these problems the way they are in the first place?
-      
-** DONE Progress annotated bibliography into a concept map
-CLOSED: [2022-10-29 Sat 10:49]
-*** TODO Divide literature into subjects
-**** 'Theory'
-***** Digital geography
-**** Policy areas
-***** Homelessness
-***** Policing
-***** Schools
+Biographical Sketch and Photograph. As a way to introduce ourselves
+we’ve reserved some space on Canvas for you to upload a biographical
+sketch and photograph. In your bio-sketch please include your name,
+where you did your undergraduate and MS/MA degree (if
+applicable). Tells us a little about your background in geography and
+your current research interests.  One or two paragraphs is sufficient
+for the biosketch and don’t forget your photograph (perhaps showing
+you doing something that you consider geographic). Due by the second
+week of the semester (see schedule for submission details).  5% of
+grade.
+
+** Entrance Interview with Thesis Advisor
+
+This exercise requires you to meet with your Thesis Advisor to discuss
+your goals for your program at SDSU.  Due by the fourth week of the
+semester (see schedule for submission details).  5% of grade
+
+** Epitome Paper
+
+As part of your review of the literature in your area of interest, you
+are going to come across many interesting articles (I hope). I want
+you to choose one (just one) of the geography articles that epitomizes
+your interests in the discipline from a philosophical or theoretical
+basis (see text books for working definitions of philosophy and
+theory). Write a 1-2 page persuasive essay entitled “the best example
+of a geographical paper …” focusing on the theoretical and
+philosophical basis of the article as well as your own views and
+opinions (see ‘seminar policies and procedures’ for details on writing
+papers). One other person from the class will be asked to review and
+critique your epitome paper for its geographic content as part of our
+discussion on Week 7.  10% of grade.
+
+** Annotated Bibliography and Concept Map
+
+Each week you will read two articles *selected by you with consultation
+with you advisor* and briefly write about their content.  During
+break-out sessions, we’ll discuss your annotated bibliographies.  By
+the end of the semester you will have (at least) 30 articles.  You
+will create and present a Concept Map of the Annotated Bibliography.
+Some of these will become part of the reference list for your
+literature review .  15% of grade.
+
+** Literature Review
+
+The literature review paper is focused on your area of interest (and
+to a much lesser extent, your research questions), and make a case for
+further investigation and research, highlighting gaps in knowledge and
+asking questions that need to be answered for the betterment of the
+discipline; as such, its contents are selected to make the case.  It
+is not an annotated bibliography, but a synthesis.  Lit review papers
+are to be 8-10 pages in length and should follow the format of
+‘progress reports’ in either Progress in Physical Geography
+(http://ppg.sagepub.com) or Progress in Human Geography
+(http://phg.sagepub.com Links to an external site.) (see ‘seminar
+policies and procedures’ for details on writing papers).  The first
+draft of the lit review paper is for peer review, which will not be
+graded by the instructor but by your peer (NO extensions are given on
+this due date).  You will submit a revised version based on the peer
+reviews and feedback from your oral presentation on exam week. 20% of
+grade.
+
+*** Double ‘Blind’ Review
+
+Your progress paper will be submitted to a double-blind peer review
+process.  That is, each of you is expected to critically review two of
+your colleagues' papers and assess whether or not they are
+publishable.  We will talk about a format for doing this later on in
+the semester.  Due by the thirteenth week of semester (see schedule
+for submission details). 10% of grade
+
+*** Oral Presentation
+
+You will present your revised lit review paper in a series of sessions
+to be run during the scheduled class time.  The sessions will emulate
+those at the annual meetings of the American Association of
+Geographers.  10% of grade
+
+** Colloquium Summaries
+
+Attendance at the Department of Geography’s Colloquium Series (mostly
+Friday afternoons but also other times) is a required part of the
+seminar.  Write a 1-2 page concise and critical reflection on four of
+the colloquium presentations you attend. You should make connections
+between what is presented relative to what you are learning about
+geographic thought in the seminar. See ‘Seminar Policies and
+Procedures’ for further instructions.  Due throughout the semester
+with everything submitted by Week 15.  10% of grade (2.5% of the final
+grade each)
+
+** Seminar Attendance, Preparation and Participation
+
+You are required to read many, many articles most weeks. Besides
+regular attendance and participation, you will be asked to participate
+in jigsaw discussions. For these discussions, you are required to read
+assigned articles and be prepared to comment on colleagues'
+critiques. 10% of grade
+
+** Seminar Policies and Procedures
+
+** Weekly attendance and participation
+
+You are expected to come to class prepared to discuss all assigned
+readings. The seminar meets in person once a week. There will be a
+15-20 break each class period, at about the half-way mark. Make every
+effort to be in the classroom at the scheduled beginning times
+(including after the break) and plan on staying until the seminar
+ends. Repeated arrivals/ departures from the seminar are discouraged
+and will negatively affect your final grade.
+
+Please talk to us if you are having difficulties completing an
+assignment, but do not wait until it is too late.
+
+** Colloquium summaries.
+
+These should be 1-2 pages, using the same formatting guidelines
+describe above for papers. I suggest you submit at least 2 summaries
+by the end of the Week 9 and any remaining ones prior to the end of
+classes (Week 15) The following questions can be used as inspiration
+to write your colloquia summaries, but you can structure your summary
+as you wish and expand beyond this:
+
+What theories and schools of thought inspired the presentation?  What
+areas, sub-disciplines and geographic concepts were key to the
+presentation?  What were the strengths and weakness of the
+presentation in relation to geographic thinking?  In what ways was the
+presentation explicitly or implicitly geographical (or not)?  What did
+you learn and how did it help you expand your understanding of
+geographic thinking?
