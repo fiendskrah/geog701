@@ -1,8 +1,8 @@
-Geography 701: Development of Geographic Thought Seminar
-Instructors: Stuart Aitken, Trent Biggs
-San Diego State University
-Fall 2022
-[[https://sdsu.instructure.com/courses/113619][Link to Canvas website]]
+* Geography 701: Development of Geographic Thought Seminar
+- San Diego State University
+- Fall 2022
+** Instructors: Stuart Aitken, Trent Biggs
+** [[https://sdsu.instructure.com/courses/113619][Link to Canvas website]]
 
 * Syllabus
 ** Course purpose
