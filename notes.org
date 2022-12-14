@@ -520,3 +520,153 @@ THere's an intersection between the mind of the technical analyst , the actual e
 ***** the antropocene and climate change go beyond materialism and human comprehension
 ****** how do we deal with phenomenon spanning epochs
 ****** We need before, beneath, and beyond our current comprehension
+* DONE Write up for concept map
+CLOSED: [2022-10-31 Mon 12:03]
+*** instructions/details of obsidian
+
+For my concept map, I'm using a program called Obsidian, which
+visualizes connections between documents using contextual links to
+create a highly interactive map of ideas and notes. Obsidian organizes
+these notes in individual files in Markdown (.md) in a folder refered
+to as a 'vault'. Please find the screenshots of the map, a few zoomed
+in shots of what are becoming my study areas (elaborated below), as
+well as the short video demonstrating a timelapse of the map's
+creation.
+
+There are several advantages to this set up from the perspective of an
+academic/grad student. First, my notes/annotations on a given article
+are extracted to a markdown file, lending itself to easy integration
+with github, and all advantages therein. I can easily sync my vault
+across machines and can access any given document from the cloud. I
+use my notes to explore ideas, ask questions, and form connections. I
+use tags to organize and add some color coding to my map - dark red
+dots are specific articles that I've read. Light red dots are papers
+to read next in a given literature. Light blue dots are guiding
+questions - the goal is for these to eventually become papers in the
+event that my reading does not adequately answer them.
+
+*** subject summary
+I set George Galster's (2001) work on neighborhoods as the focal point
+of my map and branched into the intersection with public policy -
+Galster's dimensions enable a degree of quantification of
+neighborhoods against which hypotheses can be tested. However in the
+context of the growth in homelessness in recent decades, Galster's
+dimensions seem to miss encampments, to say nothing of the largely
+invisible homeless population. As well, Galster's work predates the
+explosion of technological advancement and in particular, big data -
+so how should we come to understand the digital neighborhood (thinking
+of areas such as the gig economy, digital surveilance/privacy, social
+media, digital government) And finally, my entry to geography from
+public policy is in regards to school catchment boundaries - a
+forthcoming paper I worked on uses Galster's notion of congruence to
+further understand the nexus between schools and neighborhoods. There
+is still lots of room for work in this literature - I will continue to
+work in this area throughout my program, starting with modeling
+optimized school catchment boundaries.
+
+* DONE Biosketch
+CLOSED: [2022-09-01 Thu 09:43]
+ Hello everyone!
+
+My name is Dylan Skrah. I'm a California native who's enrolled in the
+joint doctoral program. My background is actually not in geography but
+in public policy, I graduated from UC Riverside with a Masters in
+Public Policy in 2020. I went in that direction after getting a
+B.A. in Media and Cultural studies, where I became interested in the
+intersection of government and media (propaganda). In the MPP program,
+I sought ways to affect positive change in the world (or at least in
+my neighborhood). I was fortunate to decide to enroll in a GIS course,
+which exposed me to a variety of GIS and computing tools and the ways
+that geography can inform public policy and decision makers. What
+really struck me about that course is the extent of precision offered
+by geographic methods that are simply not utilized as they could be in
+the policy world. Tobler's first law of geography, was such a
+revelation to me, despite it's simplicity.
+
+After graduating, I was offered a chance to continue researching my
+thesis topic (called a capstone project in that program) - education
+policy. From 2020 until enrolling here, I worked on a grant concerned
+with expanding the geographic sciences into education research. The
+resulting work is nearing completion and should be published by the
+end of the year. It is possible that further research in this area
+will constitute my dissertation, though I am interested in many areas
+of human geography. I am hoping that through this program, I can
+continue to develop my capacity to produce research, teach, and
+eventually pursue a gainful academic career from which I can buy lots
+of climbing furniture for my cat, Atlas.
+
+I only recently moved to La Mesa, previously I lived in the Inland
+Empire region (Riverside, San Bernardino counties for the last 12
+years. Before that, I attended high school in the central valley
+(Tulare). Most of my life has been spent around the UC Riverside
+campus - I was 4 when my mom enrolled there in grad shcool, and later
+I returned for my own education.
+
+In my personal life, I hobby-hop. When I was a teenager, I played
+guitar, then piano, and then drums. At one point I was really into
+gardening. At another I was really into weightlifting. The few things
+that have been consistent are video games, music, and film. In recent
+years, I've gotten into deep sea fishing, through which I've
+rediscovered my love for the ocean and the ecosystems it contains.
+
+* DONE Epitome Paper write up
+CLOSED: [2022-10-01 Sat 09:45]
+
+Coffee Shops and Street Stops is the epitome of a geographic paper
+because it examines an explicitly spatial phenomenon through the
+theoretical perspective of the field in which it resides. In this
+paper, Ayobami Laniyonu is interested in the mechanics of
+gentrification, specifically the post-industrial policing hypothesis,
+which effectively states that municipalities pursue policies of
+policing that emphasize addressing the fear of crime, and the
+perception of social disorder or deviance, particularly in ways that
+are understood to disrupt the enjoyment or consumption of public
+space. The study of gentrification originates from a sociological
+perspective, and as such several sociological theories are
+evaluated. However, advanced geographical methodologies are employed
+beyond typical policy analysis techniques, specifically
+regionalization and spatial Dubin modeling. Importantly, the author
+examines these questions not only spatially but temporally as well.
+
+In addition to contributions to the sociology sub-literature around
+explaining police activities, this paper makes explicit contributions
+to understanding the mechanics of gentrification. In particular, the
+author finds that gentrification can be understood as a process that
+occurs over time - the exodus of lower income, typically non-white
+population in favor of a ‘creative class’ population: whiter and
+richer. The author distinguishes neighborhoods that are eligible and
+ineligible for gentrification, and find specific patterns in the areas
+where gentrification occurs - specifically that policing increases in
+adjacent neighborhoods, rather than in the ones that gentrify,
+indicating a pattern of policing that pushes ‘undesirable’ populations
+away from the targeted area. In these areas, white populations
+skyrocketed (the modeling indicates, in aggregate, as much as 400%)
+
+These modeling techniques are used to evaluate the underlying
+theoretical perspectives on what is driving post-industrial-policing,
+which come from sociology. The author tests rational-bureaucratic
+theory; simply that policing is driven by crime, by means of
+residential demand, as well as racial threat and economic threat
+theories; that policing is driven by the presence of lower economic
+strata and non-white racial/ethnic groups, which are percieved by the
+‘creative class’ and municipalities to be the main perpetrators of
+crime. The modeling employed controls for direct, indirect, endogenous
+and exogenous effects, and ultimately finds support for each of the
+theoretical perspectives, particularly from indirect effects. The
+author briefly opines on what the findings might suggest about how
+policing occurs in relation to these effects, including such insights
+as: “...gentrification is associated with lower police stopping
+intensity in the changing tract and higher stopping intensity in
+nearby neighborhoods, suggesting that both increases and decreases in
+crime are possible, but occur in different spatial locations.”
+“...notions of pleasurable enjoyment of urban space, and what one
+might call the “aesthetics” of policing for revitalized
+space. Gentrifying in-movers likely do not prefer to see heavy and
+frequent policing in their neighborhoods any more than they prefer to
+see signs of “disorder.”  This paper is the epitome of a geographic
+paper because it offers specialized methodology to closely investigate
+the spatial and temporal variations of a phenomenon which evaluate the
+theoretical perspectives from the field in which the phenomenon is
+primarily studied. It does not hijack the inquiry and silo it off
+inside of geography, rather it augments and helps push forward the
+perspectives of sociologists.
