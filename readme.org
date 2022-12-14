@@ -1,5 +1,7 @@
 Geography 701: Development of Geographic Thought Seminar
 Instructors: Stuart Aitken, Trent Biggs
+San Diego State University
+Fall 2022
 [[https://sdsu.instructure.com/courses/113619][Link to Canvas website]]
 
 * Syllabus
@@ -49,26 +51,60 @@ proposal work in the spring semester in GEOG 700.
 
 3. Synthesize the major research questions and/or debates in your
    subfield in written and verbal form.
+
+** Schedule
+
+| Week # | Date | Topic |
+ 
+*** I. The Emerging Field
+
+| 1 | Aug 22  | Introductions and course overview (TB)                |
+| 2 | Aug 29  | What is geography and how do we think about it?  (TB) |
+| 3 | Sept 05 | LABOR DAY                                             |
+| 4 | Sept 12 | Changing ways of thinking (SA)                        |
+
+*** II. Explanatory and Interpretative Thinking
+
+| 5 | Sept 19 | The quantitative revolution and the rise of positivism (SA) | 
+| 6 | Sept 26 | Physical Geography:  philosophical underpinnings (TB)       | 
+| 7 | Oct 03  | Humanism and connections to the arts and humanities (SA)    | 
+| 8 | Oct 10  | Complex systems and models in geography (TB)                | 
+| 9 | Oct 17  | GIS and society (TB)                                        | 
+
+*** III. Critical Thinking
+
+| 10 | Oct 24 | Marxism, feminism, and post-colonialism/anti-racism (SA)          |
+| 11 | Oct 31 | Environmentalism, Political Ecology, Critical Phys Geog (TB)      |
+| 12 | Nov 7  | Relational, post-structural, and more-than-human geographies (SA) |
+| 13 | Nov 14 | Protesting 701                                                    |
+ 
+*** IV.  Literature Reviews on Chosen Subfields
+
+| 14 | Nov 21 | Thanksgiving Week     |
+| 15 | Nov 28 | Student presentations |
+| 16 | Dec 5  | Student presentations |
+ 
 ** Course design and assignments
 
-Biographical Sketch and Photograph. As a way to introduce ourselves
-we’ve reserved some space on Canvas for you to upload a biographical
-sketch and photograph. In your bio-sketch please include your name,
-where you did your undergraduate and MS/MA degree (if
-applicable). Tells us a little about your background in geography and
-your current research interests.  One or two paragraphs is sufficient
-for the biosketch and don’t forget your photograph (perhaps showing
-you doing something that you consider geographic). Due by the second
-week of the semester (see schedule for submission details).  5% of
-grade.
+*** Biographical Sketch and Photograph
 
-** Entrance Interview with Thesis Advisor
+As a way to introduce ourselves we’ve reserved some space on Canvas
+for you to upload a biographical sketch and photograph. In your
+bio-sketch please include your name, where you did your undergraduate
+and MS/MA degree (if applicable). Tells us a little about your
+background in geography and your current research interests.  One or
+two paragraphs is sufficient for the biosketch and don’t forget your
+photograph (perhaps showing you doing something that you consider
+geographic). Due by the second week of the semester (see schedule for
+submission details).  5% of grade.
+
+*** Entrance Interview with Thesis Advisor
 
 This exercise requires you to meet with your Thesis Advisor to discuss
 your goals for your program at SDSU.  Due by the fourth week of the
 semester (see schedule for submission details).  5% of grade
 
-** Epitome Paper
+*** Epitome Paper
 
 As part of your review of the literature in your area of interest, you
 are going to come across many interesting articles (I hope). I want
@@ -83,7 +119,7 @@ papers). One other person from the class will be asked to review and
 critique your epitome paper for its geographic content as part of our
 discussion on Week 7.  10% of grade.
 
-** Annotated Bibliography and Concept Map
+*** Annotated Bibliography and Concept Map
 
 Each week you will read two articles *selected by you with consultation
 with you advisor* and briefly write about their content.  During
@@ -93,7 +129,7 @@ will create and present a Concept Map of the Annotated Bibliography.
 Some of these will become part of the reference list for your
 literature review .  15% of grade.
 
-** Literature Review
+*** Literature Review
 
 The literature review paper is focused on your area of interest (and
 to a much lesser extent, your research questions), and make a case for
@@ -112,7 +148,7 @@ this due date).  You will submit a revised version based on the peer
 reviews and feedback from your oral presentation on exam week. 20% of
 grade.
 
-*** Double ‘Blind’ Review
+**** Double ‘Blind’ Review
 
 Your progress paper will be submitted to a double-blind peer review
 process.  That is, each of you is expected to critically review two of
@@ -121,14 +157,14 @@ publishable.  We will talk about a format for doing this later on in
 the semester.  Due by the thirteenth week of semester (see schedule
 for submission details). 10% of grade
 
-*** Oral Presentation
+**** Oral Presentation
 
 You will present your revised lit review paper in a series of sessions
 to be run during the scheduled class time.  The sessions will emulate
 those at the annual meetings of the American Association of
 Geographers.  10% of grade
 
-** Colloquium Summaries
+*** Colloquium Summaries
 
 Attendance at the Department of Geography’s Colloquium Series (mostly
 Friday afternoons but also other times) is a required part of the
@@ -140,7 +176,7 @@ Procedures’ for further instructions.  Due throughout the semester
 with everything submitted by Week 15.  10% of grade (2.5% of the final
 grade each)
 
-** Seminar Attendance, Preparation and Participation
+*** Seminar Attendance, Preparation and Participation
 
 You are required to read many, many articles most weeks. Besides
 regular attendance and participation, you will be asked to participate
@@ -148,9 +184,9 @@ in jigsaw discussions. For these discussions, you are required to read
 assigned articles and be prepared to comment on colleagues'
 critiques. 10% of grade
 
-** Seminar Policies and Procedures
+*** Seminar Policies and Procedures
 
-** Weekly attendance and participation
+*** Weekly attendance and participation
 
 You are expected to come to class prepared to discuss all assigned
 readings. The seminar meets in person once a week. There will be a
@@ -163,7 +199,7 @@ and will negatively affect your final grade.
 Please talk to us if you are having difficulties completing an
 assignment, but do not wait until it is too late.
 
-** Colloquium summaries.
+*** Colloquium summaries
 
 These should be 1-2 pages, using the same formatting guidelines
 describe above for papers. I suggest you submit at least 2 summaries
@@ -179,3 +215,4 @@ presentation in relation to geographic thinking?  In what ways was the
 presentation explicitly or implicitly geographical (or not)?  What did
 you learn and how did it help you expand your understanding of
 geographic thinking?
+
